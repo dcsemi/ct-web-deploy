@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domů</title>
+    <link>http://example.org/cz/</link>
+    <description>Recent content on Domů</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/cz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firma</title>
+      <link>http://example.org/cz/company/</link>
+      <pubDate>Mon, 19 Dec 2022 09:41:53 +0100</pubDate>
+      
+      <guid>http://example.org/cz/company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kvalita&amp;nbsp;a&amp;nbsp;certifikáty</title>
+      <link>http://example.org/cz/quality/</link>
+      <pubDate>Tue, 13 Dec 2022 10:41:29 +0100</pubDate>
+      
+      <guid>http://example.org/cz/quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Výrobky</title>
+      <link>http://example.org/cz/products/</link>
+      <pubDate>Tue, 13 Dec 2022 10:41:29 +0100</pubDate>
+      
+      <guid>http://example.org/cz/products/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technologie</title>
+      <link>http://example.org/cz/technology/</link>
+      <pubDate>Thu, 08 Dec 2022 09:36:14 +0100</pubDate>
+      
+      <guid>http://example.org/cz/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>http://example.org/cz/contact/</link>
+      <pubDate>Tue, 06 Dec 2022 14:41:48 +0100</pubDate>
+      
+      <guid>http://example.org/cz/contact/</guid>
+      <description>Introduction </description>
+    </item>
+    
+  </channel>
+</rss>

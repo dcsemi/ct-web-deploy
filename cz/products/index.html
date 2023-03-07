@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="\css\output.css">
+        <link rel="stylesheet" href="\css\icons.css">	
+        <link rel="stylesheet" href="\css\styles.css">
+<script defer>
+    let menuItems = document.getElementsByClassName("menu-item");
+    let postItems = document.getElementsByClassName("post-item");
+    let currentIndex = 0;
+    function switchMenu(option){
+        console.log(option)
+        if(option!==currentIndex){
+            postItems.item(option).classList.remove('hidden')
+            postItems.item(currentIndex).classList.add('hidden')
+            menuItems.item(currentIndex).classList.remove('bg-primary')
+            menuItems.item(currentIndex).classList.add('bg-lightgray2')
+            menuItems.item(currentIndex).classList.remove('text-white')
+            menuItems.item(option).classList.remove('bg-lightgray2')
+            menuItems.item(option).classList.add('bg-primary')
+            menuItems.item(option).classList.add('text-white')
+            currentIndex = option
+        }
+    }
+    window.onload = (event) => {
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const product = urlParams.get('product')
+        
+        switch(product){
+            case "0":
+                switchMenu(0)
+            case "1":
+                switchMenu(1)
+                break
+            case "2":
+                switchMenu(2)
+                break
+            case "3":
+                switchMenu(3)
+                break
+        }
+        
+        console.log(product);
+        console.log("page is fully loaded");
+    };
+
+</script>
+
+    </head>
+    <body><div class="fade-in-fast menu-parallax" style="position: absolute; border-top: 4px solid #169FE6; height:100vh; width: 100%; background-color: white; z-index: 100; display:none;">
+    <div class="flex flex-row-reverse px-4 py-4" style="width:100%; ">
+        <button type="button" onclick="hideMenu()">
+            <i class="ml-3 close-icon"></i>
+        </button>
+    </div>
+    <ul style="text-align: center; " class="">
+        
+        <li class="text-xl py-2">
+            <a href="/cz/">Domů</a>
+        </li>
+       
+        <li class="text-xl py-2">
+            <a href="/cz/company/">Firma</a>
+        </li>
+       
+        <li class="text-xl py-2">
+            <a href="/cz/products/">Výrobky</a>
+        </li>
+       
+        <li class="text-xl py-2">
+            <a href="/cz/technology/">Technologie</a>
+        </li>
+       
+        <li class="text-xl py-2">
+            <a href="/cz/quality/">Kvalita&nbsp;a&nbsp;certifikáty</a>
+        </li>
+       
+        <li class="text-xl py-2">
+            <a href="/cz/contact/">Kontakt</a>
+        </li>
+       
+    </ul>
+</div>
+<header style="border-top: 4px solid #169FE6; border-bottom:1px solid #e7e7e7;">
+    <div class="flex flex-row mx-auto" style="max-width:1500px;">
+        <div class="basis-1/2 flex items-end">
+            <a href="/cz/" style="height:95px; width:95px;">
+                <img class="py-3 pl-4" src="\img\logo.jpg" alt="company logo" height="95" width="95" />
+            </a>
+            <h4 class="pl-3 text-sm py-3 text-lightgray">|&nbsp;Solution&nbsp;for&nbsp;your&nbsp;demands</h4>
+        </div>
+        <div class="basis-1/2 flex items-center justify-end">
+            <ul class="md:flex hidden text-white text-sm">
+                <h1>Výrobky</h1>
+                
+                       
+                <a href="/cz/">
+                    <li class="bg-secondary hover:bg-black  px-3 py-3 levy-rounded" style="border-right:1px solid #666666;">
+                        Domů
+                    </li>
+                </a>
+                      
+                <a href="/cz/company/">
+                    <li class="bg-secondary hover:bg-black  px-3 py-3 " style="border-right:1px solid #666666;">
+                        Firma
+                    </li>
+                </a>
+                      
+                <a href="/cz/products/">
+                    <li class="bg-primary px-3 py-3 " style="border-right:1px solid #666666;">
+                        Výrobky
+                    </li>
+                </a>
+                      
+                <a href="/cz/technology/">
+                    <li class="bg-secondary hover:bg-black  px-3 py-3 " style="border-right:1px solid #666666;">
+                        Technologie
+                    </li>
+                </a>
+                      
+                <a href="/cz/quality/">
+                    <li class="bg-secondary hover:bg-black  px-3 py-3 " style="border-right:1px solid #666666;">
+                        Kvalita&nbsp;a&nbsp;certifikáty
+                    </li>
+                </a>
+                      
+                <a href="/cz/contact/">
+                    <li class="bg-secondary hover:bg-black  px-3 py-3 pravy-rounded" style="border-right:1px solid #666666;">
+                        Kontakt
+                    </li>
+                </a>
+               
+            </ul>
+            <a href="/" class="md:flex hidden ml-2 rounded text-lightgray px-2 py-2 " style="border:2px solid #F2F2F2; background-color: #F2F2F2; color:#999999;" >EN</a>
+            <div class="pr-6 ">
+                <a class="flex md:hidden" href="" >
+                    <button type="button" onclick="return showMenu()">
+                        <i class="ml-3 flex-initial menu-icon" ></i>
+                    </button>
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
+<div style="background-color: #FCFCFC; border-bottom: 1px solid #e7e7e7;">
+	<div class="mx-auto px-4" style="max-width:1500px;">
+		<div class="flex h-16 items-center" >
+			<div class="grow-0"> <h1 class="font-semibold text-xl">Výrobky</h1> </div>
+			<div class="grow"></div>
+			<div class="grow-0"> <h4 class="text-gray">Nacházíte se zde: <a href="/" class="text-primary underline" href="#">Domů</a> > Výrobky</h4></div>
+		</div>
+	</div>
+</div>
+
+<div class="mx-auto px-4 pt-4" style="max-width:1500px;">
+    <div class="grid grid-cols-1 md:grid-cols-4">
+            <div class="pb-4">
+                <ul class="md:text-right" style="border-right: 2px solid #169FE6;">
+                    <li class="mb-1 block">
+                        <button onClick="switchMenu(0)" class="menu-item text-white font-semibold block bg-primary hover:bg-primary md:text-right text-left px-4 py-2 hover:text-white" style="width:100%; height:100%;">Offshore kontejnery</button>
+                    </li>
+                    <li class="mb-1 block">
+                        <button onClick="switchMenu(1)" class="menu-item font-semibold block bg-lightgray2 hover:bg-primary hover:text-white md:text-right text-left  px-4 py-2" style="width:100%; height:100%;">Strojírenská výroba</button>
+                    </li>
+                    <li class="mb-1 block">
+                        <button onClick="switchMenu(2)" class="menu-item font-semibold block bg-lightgray2 hover:bg-primary hover:text-white md:text-right text-left  px-4 py-2" style="width:100%; height:100%;">Nerezová výroba</button>
+                    </li>
+                    <li class="mb-1 block">
+                        <button onClick="switchMenu(3)" class="menu-item font-semibold block bg-lightgray2 hover:bg-primary hover:text-white md:text-right text-left  px-4 py-2" style="width:100%; height:100%;">Montáž </button>
+                    </li>
+                </ul>
+            </div>
+        
+            <div class="mdc:col-span-1 col-span-3">
+
+          
+            <div class="pl-4 pb-6 post-item">
+                <h1 class="text-xl font-semibold pb-6">Offshore kontejnery</h1>
+                <p>Vyrábíme speciální kontejnery, podmořské koše a zařízení určené pro ropný průmysl.</p>
+                <p>Kontejnery jsou tzv. OffShore to znamená, že jsou certifikované dle příslušných norem k překládání na volném moři. Stejně tak jsou certifikované i podmořské koše.</p>
+                <h2 class="py-4 text-xl font-semibold">Testy kontejneru</h2>
+                <p>Nezbytné testy provádíme na vlastním zařízení za dozoru certifikačních agentur.</p>
+                <br>
+                <p> Provádíme dva základní typy testu:</p>
+                <br>
+                
+
+                <div class="grid grid-cols-1 md:grid-cols-2 pb-6">
+                    <div class="text-center py-6 rounded" style="border:1px solid #CECECE;">
+                        <img width="150" height="150" class="mx-auto rounded-full" src="/img/test_tower.jpg" alt="" style="max-width:150px; max-height:150px; border:7px solid #CECECE;">    
+                        <h2 class="py-6 text-xl font-semibold">Produkční test</h2>
+                        <p class="text-lg px-10 font-semibold" style="color: #7C7C7C;">Produkční test, kdy se primární struktura kontejneru zkouší na požadovanou zátěž. (max. do 100 tun) a kontejner je uchycen za 2 nebo 4 body. </p>
+                    </div>
+                    <div class="mx-4 text-center py-6 rounded" style="border:1px solid #CECECE;">
+                        <img class="aspect-square mx-auto rounded-full" width="150" height="150" class="" src="/img/parts/container10.jpg" alt="" style="max-width:150px; max-height:150px; border:7px solid #CECECE;">    
+                        <h2 class="py-6 text-xl font-semibold">Prototypový test</h2>
+                        <p class="px-10 text-lg font-semibold" style="color: #7C7C7C;">Prototypový test, zejména test pádový, kdy je primární struktura prototypu spuštěna ze speciálního závěsu na zem.</p>
+                    </div>
+                </div>
+                
+                <br>
+                <h2 class="text-lg font-semibold">Kontejnery jsme schopni zajistit</h2>
+                <br>
+                <p>Podle zadání základních parametrů zákazníkem, jsme schopni zpracovat výkresovou dokumentaci, včetně zajištění certifikace</p>
+                <br>
+                <h2 class="py-4 text-xl font-semibold">Kontejnery k uložení hnacích agregátů</h2>
+                <div style="background-color: #F1F1F1; border: 1px solid #CECECE;">
+                    <div class="py-4 px-4 overflow-x-auto flex flex-cols" >
+                        <div class="grow"></div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\container1.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\container2.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\container3.jpg" alt="">
+                        </div>
+                        <div class="grow"></div>
+
+                    </div>
+                </div>
+                <br>
+
+
+                <h2 class="py-4 text-xl font-semibold">Kontejnery určené pro technologii měření hloubky vrtu</h2>
+
+                <div style="background-color: #F1F1F1; border: 1px solid #CECECE;">
+                    <div class="py-4 px-4 overflow-x-auto flex flex-cols" >
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container5.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container6.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container7.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container8.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container9.jpg" alt="">
+                        </div>
+
+                    </div>
+                </div>
+                
+
+
+                <h2 class="pb-4 pt-6 text-xl font-semibold">Dílenské kontejnery vyrábíme pouze dle zadání základních parametrů zákazníkem.</h2>
+                
+                <div style="background-color: #F1F1F1; border: 1px solid #CECECE;">
+                    <div class="py-4 px-4 overflow-x-auto flex flex-cols" >
+                        <div class="grow"></div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container10.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container12.jpg" alt="">
+                        </div>
+                        <div class="grow"></div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="pl-4 pb-6 post-item hidden">
+                <h1 class="text-xl font-semibold pb-6">Strojírenská výroba</h1>
+                <p class="pb-4">
+                    Našim zákazníkům nabízíme výrobu od jednoduchých výpalků na našem laserovém pálícím stroji včetně ohýbání, popřípadě svaření a povrchové úpravy, až po dodání složitých svařenců včetně opracování a následné montáže.                    
+                </p>
+                <p class="pb-4">
+                    Jsme schopni svařovat ocelové konstrukce do hmotnosti 5000 kg.     
+                </p>
+
+                <div style="background-color: #F1F1F1; border: 1px solid #CECECE;">
+                    <div class="py-4 px-4 overflow-x-auto flex flex-cols" >
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng1.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng2.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng3.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng4.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng5.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng6.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng7.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng8.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng9.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng10.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng11.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pl-4 pb-6 post-item hidden">
+                <h1 class="text-xl font-semibold pb-6">Nerezová výroba</h1>
+                <p>
+                    V oblasti nerezové výroby disponujeme prvotřídními svářecími a obráběcími stroji. Klademe důraz na kvalitu provedení. Pomocí řezacího laseru, CNC ohraňovacího lisu jsme schopni nabídnout zhotovení přesných plechových dílů a strojírenských celků pro různá odvětví průmyslu:
+                </p>
+                <h1 class="py-4 text-xl font-semibold">Stroje</h1>
+
+                <div style="background-color: #F1F1F1; border: 1px solid #CECECE;">
+                    <div class="py-4 px-4 overflow-x-auto flex flex-cols" >
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel1.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel2.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel4.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel5.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel7.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel8.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel9.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel10.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel11.jpg" alt="">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="pl-4 pb-6 post-item hidden">
+                <h1 class="text-xl font-semibold pb-6">
+                    Montáž
+                </h1>
+                <p>
+                    Ve spolupráci s našimi dlouholetými dodavateli poskytujeme veškeré následné operace, včetně montáží mechanických, elektro, případně kompletace výrobků dle předané dokumentace.
+                </p>
+                <br>
+                <p>
+                    Provádíme jak montáž velkých celků, tak sestavujeme velice přesné menší mechanické části strojů
+                </p>
+                <br>
+                <p>
+                    Provádíme následnou montáž a instalaci různých zařízení do kontejnerů
+                </p>
+                
+                <div style="background-color: #F1F1F1; border: 1px solid #CECECE;">
+                    <div class="py-4 px-4 overflow-x-auto flex flex-cols" >
+                        <div class="grow"></div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\assembly3.jpg" alt="">
+                        </div>
+                        <div class="grow"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="py-6" style="border-top: 1px solid #e7e7e7;">
+    <div class=" mx-auto" style="max-width:1500px;">
+        <div class="grid grid-cols-1 md:grid-cols-4">
+            <div>
+            </div>
+            <div class="md:col-span-3">
+                <div class="flex">
+                    <div class="pl-4">
+                        <h2 class="text-xl font-semibold py-6">Certifikace přípravy a procesu výroby</h2>
+                        <p>
+                            Kompletní Offshore výroba musí splňovat předepsané normy dle EN 12079 (DNV 2.7.1)
+                            
+                        </p>
+                        <br>
+                        <p>
+                            
+                            Celý proces přípravy a výroby je navíc kontrolován nezávislými certifikačními agenturami.
+                        </p>
+                        <h3 class="py-6 text-xl font-semibold">
+                            Naše firma spolupracuje
+                        </h3>
+                        <div class="flex">
+                            <a class="pr-2" href="">
+                                <img src="\img\certificates\dnv.jpg" alt="" >
+                            </a>
+                            <a href="">
+                                <img src="\img\certificates\lr.jpg" alt="" >
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="text-sm" style="width:100%;">
+
+
+    <div style="background-color:#4C4C4C;">
+        <div class=" md:block hidden text-center mx-auto py-4" style="max-width: 1500px; color: #B5B5B5;">
+            <div>
+                
+                    <a class="  px-2 underline" href="/cz/">Domů</a>
+                
+                    <a class="  px-2 underline" href="/cz/company/">Firma</a>
+                
+                    <a class="  px-2 underline" href="/cz/products/">Výrobky</a>
+                
+                    <a class="  px-2 underline" href="/cz/technology/">Technologie</a>
+                
+                    <a class="  px-2 underline" href="/cz/quality/">Kvalita&nbsp;a&nbsp;certifikáty</a>
+                
+                    <a class="  px-2 underline" href="/cz/contact/">Kontakt</a>
+                
+            </div>
+
+        </div>
+    </div>
+
+
+    
+
+
+    <div class="py-6 block md:hidden" style="text-align:center; background-color: #4C4C4C; color: #B5B5B5;">
+        <ul>
+            
+                <li class="underline pb-2"><a href="/cz/">Domů</a></li>
+            
+                <li class="underline pb-2"><a href="/cz/company/">Firma</a></li>
+            
+                <li class="underline pb-2"><a href="/cz/products/">Výrobky</a></li>
+            
+                <li class="underline pb-2"><a href="/cz/technology/">Technologie</a></li>
+            
+                <li class="underline pb-2"><a href="/cz/quality/">Kvalita&nbsp;a&nbsp;certifikáty</a></li>
+            
+                <li class="underline pb-2"><a href="/cz/contact/">Kontakt</a></li>
+            
+        </ul>
+    </div>
+    <div class="py-4 text-sm font-semibold uppercase" style="text-align:center; background-color: #424242; color:#B5B5B5;">
+        CT-Products s.r.o.
+    </div>
+</footer>
+
+<script src="\js\script.js"></script></body>
+</html>

@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="\css\output.css">
+        <link rel="stylesheet" href="\css\icons.css">	
+        <link rel="stylesheet" href="\css\styles.css">
+<script defer>
+    let menuItems = document.getElementsByClassName("menu-item");
+    let postItems = document.getElementsByClassName("post-item");
+    let currentIndex = 0;
+    function switchMenu(option){
+        console.log(option)
+        if(option!==currentIndex){
+            postItems.item(option).classList.remove('hidden')
+            postItems.item(currentIndex).classList.add('hidden')
+            menuItems.item(currentIndex).classList.remove('bg-primary')
+            menuItems.item(currentIndex).classList.add('bg-lightgray2')
+            menuItems.item(currentIndex).classList.remove('text-white')
+            menuItems.item(option).classList.remove('bg-lightgray2')
+            menuItems.item(option).classList.add('bg-primary')
+            menuItems.item(option).classList.add('text-white')
+            currentIndex = option
+        }
+    }
+    window.onload = (event) => {
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const product = urlParams.get('product')
+        
+        switch(product){
+            case "0":
+                switchMenu(0)
+            case "1":
+                switchMenu(1)
+                break
+            case "2":
+                switchMenu(2)
+                break
+            case "3":
+                switchMenu(3)
+                break
+        }
+        
+        console.log(product);
+        console.log("page is fully loaded");
+    };
+
+</script>
+
+    </head>
+    <body><div class="fade-in-fast menu-parallax" style="position: absolute; border-top: 4px solid #169FE6; height:100vh; width: 100%; background-color: white; z-index: 100; display:none;">
+    <div class="flex flex-row-reverse px-4 py-4" style="width:100%; ">
+        <button type="button" onclick="hideMenu()">
+            <i class="ml-3 close-icon"></i>
+        </button>
+    </div>
+    <ul style="text-align: center; " class="">
+        
+        <li class="text-xl py-2">
+            <a href="/">Home</a>
+        </li>
+       
+        <li class="text-xl py-2">
+            <a href="/company/">Company</a>
+        </li>
+       
+        <li class="text-xl py-2">
+            <a href="/products/">Products</a>
+        </li>
+       
+        <li class="text-xl py-2">
+            <a href="/technology/">Technology</a>
+        </li>
+       
+        <li class="text-xl py-2">
+            <a href="/quality/">Quality&nbsp;and&nbsp;certificates</a>
+        </li>
+       
+        <li class="text-xl py-2">
+            <a href="/contact/">Contact</a>
+        </li>
+       
+    </ul>
+</div>
+<header style="border-top: 4px solid #169FE6; border-bottom:1px solid #e7e7e7;">
+    <div class="flex flex-row mx-auto" style="max-width:1500px;">
+        <div class="basis-1/2 flex items-end">
+            <a href="/" style="height:95px; width:95px;">
+                <img class="py-3 pl-4" src="\img\logo.jpg" alt="company logo" height="95" width="95" />
+            </a>
+            <h4 class="pl-3 text-sm py-3 text-lightgray">|&nbsp;Solution&nbsp;for&nbsp;your&nbsp;demands</h4>
+        </div>
+        <div class="basis-1/2 flex items-center justify-end">
+            <ul class="md:flex hidden text-white text-sm">
+                <h1>Products</h1>
+                
+                       
+                <a href="/">
+                    <li class="bg-secondary hover:bg-black  px-3 py-3 levy-rounded" style="border-right:1px solid #666666;">
+                        Home
+                    </li>
+                </a>
+                      
+                <a href="/company/">
+                    <li class="bg-secondary hover:bg-black  px-3 py-3 " style="border-right:1px solid #666666;">
+                        Company
+                    </li>
+                </a>
+                      
+                <a href="/products/">
+                    <li class="bg-primary px-3 py-3 " style="border-right:1px solid #666666;">
+                        Products
+                    </li>
+                </a>
+                      
+                <a href="/technology/">
+                    <li class="bg-secondary hover:bg-black  px-3 py-3 " style="border-right:1px solid #666666;">
+                        Technology
+                    </li>
+                </a>
+                      
+                <a href="/quality/">
+                    <li class="bg-secondary hover:bg-black  px-3 py-3 " style="border-right:1px solid #666666;">
+                        Quality&nbsp;and&nbsp;certificates
+                    </li>
+                </a>
+                      
+                <a href="/contact/">
+                    <li class="bg-secondary hover:bg-black  px-3 py-3 pravy-rounded" style="border-right:1px solid #666666;">
+                        Contact
+                    </li>
+                </a>
+               
+            </ul>
+            <a href="/cz/" class="md:flex hidden ml-2 rounded text-lightgray px-2 py-2 " style="border:2px solid #F2F2F2; background-color: #F2F2F2; color:#999999;" >CZ</a>
+            <div class="pr-6 ">
+                <a class="flex md:hidden" href="" >
+                    <button type="button" onclick="return showMenu()">
+                        <i class="ml-3 flex-initial menu-icon" ></i>
+                    </button>
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
+<div style="background-color: #FCFCFC; border-bottom: 1px solid #e7e7e7;">
+	<div class="mx-auto px-4" style="max-width:1500px;">
+		<div class="flex h-16 items-center" >
+			<div class="grow-0"> <h1 class="font-semibold text-xl">Products</h1> </div>
+			<div class="grow"></div>
+			<div class="grow-0"> <h4 class="text-gray">You are here: <a href="/" class="text-primary underline" href="#">Home</a> > Products</h4></div>
+		</div>
+	</div>
+</div>
+
+<div class="mx-auto px-4 pt-4" style="max-width:1500px;">
+    <div class="grid grid-cols-1 md:grid-cols-4">
+            <div class="pb-4">
+                <ul class="md:text-right" style="border-right: 2px solid #169FE6;">
+                    <li class="mb-1 block">
+                        <button onClick="switchMenu(0)" class="menu-item text-white font-semibold block bg-primary hover:bg-primary md:text-right text-left px-4 py-2 hover:text-white" style="width:100%; height:100%;">Offshore products</button>
+                    </li>
+                    <li class="mb-1 block">
+                        <button onClick="switchMenu(1)" class="menu-item font-semibold block bg-lightgray2 hover:bg-primary hover:text-white md:text-right text-left  px-4 py-2" style="width:100%; height:100%;">Engineering</button>
+                    </li>
+                    <li class="mb-1 block">
+                        <button onClick="switchMenu(2)" class="menu-item font-semibold block bg-lightgray2 hover:bg-primary hover:text-white md:text-right text-left  px-4 py-2" style="width:100%; height:100%;">Stainless steel products</button>
+                    </li>
+                    <li class="mb-1 block">
+                        <button onClick="switchMenu(3)" class="menu-item font-semibold block bg-lightgray2 hover:bg-primary hover:text-white md:text-right text-left  px-4 py-2" style="width:100%; height:100%;">Assembly </button>
+                    </li>
+                </ul>
+            </div>
+        
+            <div class="mdc:col-span-1 col-span-3">
+
+          
+            <div class="pl-4 pb-6 post-item">
+                <h1 class="text-xl font-semibold pb-6">Offshore products</h1>
+                <p>We produce special containers and equipment intended for petroleum industry.</p>
+                <p>The containers are of the “offshore” type which means they are certified according to respective standards for reloading on an open sea.</p>
+                <h2 class="py-4 text-xl font-semibold">Container tests</h2>
+                <p>Necessary tests are performed using our own equipment under the supervision of certification agencies.</p>
+                <br>
+                <p> We perform two basic types of tests:</p>
+                <br>
+                
+
+                <div class="grid grid-cols-1 md:grid-cols-2 pb-6">
+                    <div class="text-center py-6 rounded" style="border:1px solid #CECECE;">
+                        <img width="150" height="150" class="mx-auto rounded-full" src="/img/test_tower.jpg" alt="" style="max-width:150px; max-height:150px; border:7px solid #CECECE;">    
+                        <h2 class="py-6 text-xl font-semibold">Production</h2>
+                        <p class="text-lg px-10 font-semibold" style="color: #7C7C7C;">Production test where the primary structure of the container is tested for the required load (up to 100 tons) and the container is gripped at 2 or 4 points. </p>
+                    </div>
+                    <div class="mx-4 text-center py-6 rounded" style="border:1px solid #CECECE;">
+                        <img class="aspect-square mx-auto rounded-full" width="150" height="150" class="" src="/img/parts/container10.jpg" alt="" style="max-width:150px; max-height:150px; border:7px solid #CECECE;">    
+                        <h2 class="py-6 text-xl font-semibold">Prototype test</h2>
+                        <p class="px-10 text-lg font-semibold" style="color: #7C7C7C;">Prototype test, in particular the fall test, where the primary structure of the prototype is dropped from a special hinge to the ground.</p>
+                    </div>
+                </div>
+                
+                <br>
+                <h2 class="text-lg font-semibold">We are able to ensure containers</h2>
+                <br>
+                <p>We are able to elaborate design documentation according to basic parameters defined by the customer including certification assurance.</p>
+                <br>
+                <h2 class="py-4 text-xl font-semibold">Containers for storage of power units</h2>
+                <div style="background-color: #F1F1F1; border: 1px solid #CECECE;">
+                    <div class="py-4 px-4 overflow-x-auto flex flex-cols" >
+                        <div class="grow"></div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\container1.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\container2.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\container3.jpg" alt="">
+                        </div>
+                        <div class="grow"></div>
+
+                    </div>
+                </div>
+                <br>
+
+
+                <h2 class="py-4 text-xl font-semibold">Containers intended for the technology for measuring the drill well depth</h2>
+
+                <div style="background-color: #F1F1F1; border: 1px solid #CECECE;">
+                    <div class="py-4 px-4 overflow-x-auto flex flex-cols" >
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container5.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container6.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container7.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container8.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container9.jpg" alt="">
+                        </div>
+
+                    </div>
+                </div>
+                
+
+
+                <h2 class="pb-4 pt-6 text-xl font-semibold">Workshop containers are only produced according to the defined basic parameters of the customer</h2>
+                
+                <div style="background-color: #F1F1F1; border: 1px solid #CECECE;">
+                    <div class="py-4 px-4 overflow-x-auto flex flex-cols" >
+                        <div class="grow"></div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container10.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\container12.jpg" alt="">
+                        </div>
+                        <div class="grow"></div>
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="pl-4 pb-6 post-item hidden">
+                <h1 class="text-xl font-semibold pb-6">Engineering</h1>
+                <p class="pb-4">
+                    We offer our customers the production from simple burnouts on our laser cutting machine including bending, welding and surface treatment, up to the delivery of complicated weldment units including machining and consequent assembly.                    
+                </p>
+                <p class="pb-4">
+                    We are able to weld steel structures up to the weight of 5000 kg.     
+                </p>
+
+                <div style="background-color: #F1F1F1; border: 1px solid #CECECE;">
+                    <div class="py-4 px-4 overflow-x-auto flex flex-cols" >
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng1.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng2.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng3.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng4.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng5.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng6.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng7.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng8.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng9.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng10.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\eng11.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pl-4 pb-6 post-item hidden">
+                <h1 class="text-xl font-semibold pb-6">Stainless steel products</h1>
+                <p>
+                    We have the best quality welding and metal-working machines in the field of the stainless steel production. We emphasize the quality of workmanship. By using our laser cutting machine and CNC press brake, we can offer producing precise metal sheet parts and engineering units for various industrial sectors.
+                </p>
+                <h1 class="py-4 text-xl font-semibold">Machines</h1>
+
+                <div style="background-color: #F1F1F1; border: 1px solid #CECECE;">
+                    <div class="py-4 px-4 overflow-x-auto flex flex-cols" >
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel1.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel2.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel4.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel5.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel7.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel8.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel9.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel10.jpg" alt="">
+                        </div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;;" >
+                            <img  src="\img\parts\stainless_steel11.jpg" alt="">
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="pl-4 pb-6 post-item hidden">
+                <h1 class="text-xl font-semibold pb-6">
+                    Assembly
+                </h1>
+                <p>
+                    In cooperation with our long-term partners we provide all the following operations including mechanical and electrical assemblies or assembling of products according to the submitted documentation.
+                </p>
+                <br>
+                <p>
+                    We also ensure assembling large units, and we assemble highly precise smaller mechanical parts of machines.
+                </p>
+                <br>
+                <p>
+                    We perform consequent assembly and installation of various equipment to containers
+                </p>
+                
+                <div style="background-color: #F1F1F1; border: 1px solid #CECECE;">
+                    <div class="py-4 px-4 overflow-x-auto flex flex-cols" >
+                        <div class="grow"></div>
+                        <div class="shadow p-2 text-center mr-4" style="width:220px; min-width: 220px; max-width: 220px;  background-color: white;" >
+                            <img  src="\img\parts\assembly3.jpg" alt="">
+                        </div>
+                        <div class="grow"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="py-6" style="border-top: 1px solid #e7e7e7;">
+    <div class=" mx-auto" style="max-width:1500px;">
+        <div class="grid grid-cols-1 md:grid-cols-4">
+            <div>
+            </div>
+            <div class="md:col-span-3">
+                <div class="flex">
+                    <div class="pl-4">
+                        <h2 class="text-xl font-semibold py-6">Certification of production preparation and production process</h2>
+                        <p>
+                            The entire offshore production has to meet the prescribed standards according to EN 12079 (DNV 2.7.1).
+                            
+                        </p>
+                        <br>
+                        <p>
+                            
+                            The whole process of preparation and production is checked by independent certification agencies.
+                        </p>
+                        <h3 class="py-6 text-xl font-semibold">
+                            Our company cooperates with
+                        </h3>
+                        <div class="flex">
+                            <a class="pr-2" href="">
+                                <img src="\img\certificates\dnv.jpg" alt="" >
+                            </a>
+                            <a href="">
+                                <img src="\img\certificates\lr.jpg" alt="" >
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="text-sm" style="width:100%;">
+
+
+    <div style="background-color:#4C4C4C;">
+        <div class=" md:block hidden text-center mx-auto py-4" style="max-width: 1500px; color: #B5B5B5;">
+            <div>
+                
+                    <a class="  px-2 underline" href="/">Home</a>
+                
+                    <a class="  px-2 underline" href="/company/">Company</a>
+                
+                    <a class="  px-2 underline" href="/products/">Products</a>
+                
+                    <a class="  px-2 underline" href="/technology/">Technology</a>
+                
+                    <a class="  px-2 underline" href="/quality/">Quality&nbsp;and&nbsp;certificates</a>
+                
+                    <a class="  px-2 underline" href="/contact/">Contact</a>
+                
+            </div>
+
+        </div>
+    </div>
+
+
+    
+
+
+    <div class="py-6 block md:hidden" style="text-align:center; background-color: #4C4C4C; color: #B5B5B5;">
+        <ul>
+            
+                <li class="underline pb-2"><a href="/">Home</a></li>
+            
+                <li class="underline pb-2"><a href="/company/">Company</a></li>
+            
+                <li class="underline pb-2"><a href="/products/">Products</a></li>
+            
+                <li class="underline pb-2"><a href="/technology/">Technology</a></li>
+            
+                <li class="underline pb-2"><a href="/quality/">Quality&nbsp;and&nbsp;certificates</a></li>
+            
+                <li class="underline pb-2"><a href="/contact/">Contact</a></li>
+            
+        </ul>
+    </div>
+    <div class="py-4 text-sm font-semibold uppercase" style="text-align:center; background-color: #424242; color:#B5B5B5;">
+        CT-Products s.r.o.
+    </div>
+</footer>
+
+<script src="\js\script.js"></script></body>
+</html>
