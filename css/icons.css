@@ -1,19 +1,19 @@
 .mail-icon {
-    background: url("/img/mail-vector.svg");
+    background: url("../img/mail-vector.svg");
     height: 14px;
     width: 16px;
     display: block;
 }
 
 .phone-icon {
-    background: url("/img/phone-vector.svg");
+    background: url("../img/phone-vector.svg");
     height: 14px;
     width: 14px;
     display: block;
 }
 
 .arrow-right-icon {
-    background: url("/img/arrow_right.svg");
+    background: url("../img/arrow_right.svg");
     height: 16px;
     width: 10px;
     display: block;
@@ -21,7 +21,7 @@
 
 
 .arrow-left-icon {
-    background: url("/img/arrow_left.svg");
+    background: url("../img/arrow_left.svg");
     height: 16px;
     width: 10px;
     display: block;
@@ -29,7 +29,7 @@
 
 
 .menu-icon {
-    background: url("/img/menu-line.svg");
+    background: url("../img/menu-line.svg");
     height: 24px;
     width: 24px;
     display: block;
@@ -37,7 +37,7 @@
 
 
 .pin-icon {
-    background: url("/img/pin.svg");
+    background: url("../img/pin.svg");
     height: 16px;
     width: 13px;
     display: block;
@@ -45,7 +45,7 @@
 
 
 .send-mail-icon {
-    background: url("/img/send-mail.svg");
+    background: url("../img/send-mail.svg");
     height: 15px;
     width: 18px;
     display: block;
@@ -53,21 +53,21 @@
 }
 
 .close-icon {
-    background: url("/img/close-fill.svg");
+    background: url("../img/close-fill.svg");
     height: 20px;
     width: 20px;
     display: block;
 }
 
 .close-icon-white {
-    background: url("/img/close-fill-white.svg");
+    background: url("../img/close-fill-white.svg");
     height: 20px;
     width: 20px;
     display: block;
 }
 
 .linkedin-icon {
-    background: url("/img/linkedin-box-fill.svg");
+    background: url("../img/linkedin-box-fill.svg");
     height: 20px;
     width: 20px;
     display: block;

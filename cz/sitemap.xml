@@ -2,105 +2,105 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/cz/company/</loc>
+    <loc>https://dcsemi.github.io/ct-web-deploy/cz/company/</loc>
     <lastmod>2022-12-19T09:41:53+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/company/"
+                href="https://dcsemi.github.io/ct-web-deploy/company/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="http://example.org/cz/company/"
+                href="https://dcsemi.github.io/ct-web-deploy/cz/company/"
                 />
   </url><url>
-    <loc>http://example.org/cz/quality/</loc>
+    <loc>https://dcsemi.github.io/ct-web-deploy/cz/quality/</loc>
     <lastmod>2022-12-13T10:41:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/quality/"
+                href="https://dcsemi.github.io/ct-web-deploy/quality/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="http://example.org/cz/quality/"
+                href="https://dcsemi.github.io/ct-web-deploy/cz/quality/"
                 />
   </url><url>
-    <loc>http://example.org/cz/products/</loc>
+    <loc>https://dcsemi.github.io/ct-web-deploy/cz/products/</loc>
     <lastmod>2022-12-13T10:41:29+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/products/"
+                href="https://dcsemi.github.io/ct-web-deploy/products/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="http://example.org/cz/products/"
+                href="https://dcsemi.github.io/ct-web-deploy/cz/products/"
                 />
   </url><url>
-    <loc>http://example.org/cz/technology/</loc>
+    <loc>https://dcsemi.github.io/ct-web-deploy/cz/technology/</loc>
     <lastmod>2022-12-08T09:36:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/technology/"
+                href="https://dcsemi.github.io/ct-web-deploy/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="http://example.org/cz/technology/"
+                href="https://dcsemi.github.io/ct-web-deploy/cz/technology/"
                 />
   </url><url>
-    <loc>http://example.org/cz/contact/</loc>
+    <loc>https://dcsemi.github.io/ct-web-deploy/cz/contact/</loc>
     <lastmod>2022-12-06T14:41:48+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/contact/"
+                href="https://dcsemi.github.io/ct-web-deploy/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="http://example.org/cz/contact/"
+                href="https://dcsemi.github.io/ct-web-deploy/cz/contact/"
                 />
   </url><url>
-    <loc>http://example.org/cz/categories/</loc>
+    <loc>https://dcsemi.github.io/ct-web-deploy/cz/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://dcsemi.github.io/ct-web-deploy/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="http://example.org/cz/categories/"
+                href="https://dcsemi.github.io/ct-web-deploy/cz/categories/"
                 />
   </url><url>
-    <loc>http://example.org/cz/</loc>
+    <loc>https://dcsemi.github.io/ct-web-deploy/cz/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://dcsemi.github.io/ct-web-deploy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="http://example.org/cz/"
+                href="https://dcsemi.github.io/ct-web-deploy/cz/"
                 />
   </url><url>
-    <loc>http://example.org/cz/tags/</loc>
+    <loc>https://dcsemi.github.io/ct-web-deploy/cz/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://dcsemi.github.io/ct-web-deploy/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cz"
-                href="http://example.org/cz/tags/"
+                href="https://dcsemi.github.io/ct-web-deploy/cz/tags/"
                 />
   </url>
 </urlset>
