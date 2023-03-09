@@ -51,39 +51,60 @@
 
     </head>
     <body><div class="fade-in-fast menu-parallax" style="position: absolute; border-top: 4px solid #169FE6; height:100vh; width: 100%; background-color: white; z-index: 100; display:none;">
-    <div class="flex flex-row-reverse px-4 py-4" style="width:100%; ">
+    <div class="flex flex-row-reverse px-4 py-4 pr-6" style="width:100%; height:100px;">
         <button type="button" onclick="hideMenu()">
             <i class="ml-3 close-icon"></i>
         </button>
     </div>
     <ul style="text-align: center; " class="">
         
-        <li class="text-xl py-2">
-            <a href="/ct-web-deploy/cz/">Domů</a>
-        </li>
+        <a href="/ct-web-deploy/cz/">
+            <li class="text-xl py-2 hover:bg-lightgray2">
+                Domů
+            </li>
+        </a>
+        
        
-        <li class="text-xl py-2">
-            <a href="/ct-web-deploy/cz/company/">Firma</a>
-        </li>
+        <a href="/ct-web-deploy/cz/company/">
+            <li class="text-xl py-2 hover:bg-lightgray2">
+                Firma
+            </li>
+        </a>
+        
        
-        <li class="text-xl py-2">
-            <a href="/ct-web-deploy/cz/products/">Výrobky</a>
-        </li>
+        <a href="/ct-web-deploy/cz/products/">
+            <li class="text-xl py-2 hover:bg-lightgray2">
+                Výrobky
+            </li>
+        </a>
+        
        
-        <li class="text-xl py-2">
-            <a href="/ct-web-deploy/cz/technology/">Technologie</a>
-        </li>
+        <a href="/ct-web-deploy/cz/technology/">
+            <li class="text-xl py-2 hover:bg-lightgray2">
+                Technologie
+            </li>
+        </a>
+        
        
-        <li class="text-xl py-2">
-            <a href="/ct-web-deploy/cz/quality/">Kvalita&nbsp;a&nbsp;certifikáty</a>
-        </li>
+        <a href="/ct-web-deploy/cz/quality/">
+            <li class="text-xl py-2 hover:bg-lightgray2">
+                Kvalita&nbsp;a&nbsp;certifikáty
+            </li>
+        </a>
+        
        
-        <li class="text-xl py-2">
-            <a href="/ct-web-deploy/cz/contact/">Kontakt</a>
-        </li>
+        <a href="/ct-web-deploy/cz/contact/">
+            <li class="text-xl py-2 hover:bg-lightgray2">
+                Kontakt
+            </li>
+        </a>
+        
        
     </ul>
 </div>
+
+
+
 <header style="border-top: 4px solid #169FE6; border-bottom:1px solid #e7e7e7;">
     <div class="flex flex-row mx-auto" style="max-width:1500px;">
         <div class="basis-1/2 flex items-end">
@@ -150,7 +171,7 @@
 		<div class="flex h-16 items-center" >
 			<div class="grow-0"> <h1 class="font-semibold text-xl">Výrobky</h1> </div>
 			<div class="grow"></div>
-			<div class="grow-0"> <h4 class="text-gray">Nacházíte se zde: <a href="https://dcsemi.github.io/ct-web-deploy/" class="text-primary underline" href="#">Domů</a> > Výrobky</h4></div>
+			<div class="grow-0"> <h4 class="text-gray">Nacházíte&nbsp;se&nbsp;zde:&nbsp;<a href="https://dcsemi.github.io/ct-web-deploy/" class="text-primary underline" href="#">Domů</a>&nbsp;>&nbsp;Výrobky</h4></div>
 		</div>
 	</div>
 </div>
@@ -188,18 +209,27 @@
                 <br>
                 
 
-                <div class="grid grid-cols-1 md:grid-cols-2 pb-6">
-                    <div class="text-center py-6 rounded" style="border:1px solid #CECECE;">
-                        <img width="150" height="150" class="mx-auto rounded-full" src="https://dcsemi.github.io/ct-web-deploy/img/test_tower.jpg" alt="" style="max-width:150px; max-height:150px; border:7px solid #CECECE;">    
+                <div class="grid md:grid-cols-2 grid-cols-1 pb-6">
+                    <div class="md:mb-0 mb-4 text-center py-6 rounded" style="border:1px solid #CECECE;">
+                        <img width="150" height="150" class="mx-auto rounded-full aspect-square" src="https://dcsemi.github.io/ct-web-deploy/img/test_tower.jpg" alt="" style="max-width:150px; max-height:150px; border:7px solid #CECECE;">    
                         <h2 class="py-6 text-xl font-semibold">Produkční test</h2>
-                        <p class="text-lg px-10 font-semibold" style="color: #7C7C7C;">Produkční test, kdy se primární struktura kontejneru zkouší na požadovanou zátěž. (max. do 100 tun) a kontejner je uchycen za 2 nebo 4 body. </p>
+                        <p class="font-semibold px-10" style="color: #7C7C7C;">
+                            Produkční test, kdy se primární struktura kontejneru zkouší na požadovanou zátěž. (max. do 100 tun) a kontejner je uchycen za 2 nebo 4 body.
+                        </p>
                     </div>
-                    <div class="mx-4 text-center py-6 rounded" style="border:1px solid #CECECE;">
-                        <img class="aspect-square mx-auto rounded-full" width="150" height="150" class="" src="https://dcsemi.github.io/ct-web-deploy/img/parts/container10.jpg" alt="" style="max-width:150px; max-height:150px; border:7px solid #CECECE;">    
+        
+                    <div class="lb-0 md:ml-4 text-center py-6 rounded" style="border:1px solid #CECECE;">
+                        <img width="150" height="150" class="mx-auto rounded-full aspect-square" src="https://dcsemi.github.io/ct-web-deploy/img/parts/container10.jpg" alt="" style="max-width:150px; max-height:150px; border:7px solid #CECECE;">    
                         <h2 class="py-6 text-xl font-semibold">Prototypový test</h2>
-                        <p class="px-10 text-lg font-semibold" style="color: #7C7C7C;">Prototypový test, zejména test pádový, kdy je primární struktura prototypu spuštěna ze speciálního závěsu na zem.</p>
+                        <p class="font-semibold px-10" style="color: #7C7C7C;">
+                            Prototypový test, zejména test pádový, kdy je primární struktura prototypu spuštěna ze speciálního závěsu na zem.
+                        </p>
                     </div>
                 </div>
+
+
+
+                
                 
                 <br>
                 <h2 class="text-lg font-semibold">Kontejnery jsme schopni zajistit</h2>
@@ -425,8 +455,6 @@
 </div>
 
 <footer class="text-sm" style="width:100%;">
-
-
     <div style="background-color:#4C4C4C;">
         <div class=" md:block hidden text-center mx-auto py-4" style="max-width: 1500px; color: #B5B5B5;">
             <div>
@@ -447,11 +475,6 @@
 
         </div>
     </div>
-
-
-    
-
-
     <div class="py-6 block md:hidden" style="text-align:center; background-color: #4C4C4C; color: #B5B5B5;">
         <ul>
             
@@ -474,5 +497,14 @@
     </div>
 </footer>
 
-<script src="\js\script.js"></script></body>
+<script>
+    let parallaxMenu = document.querySelector(".menu-parallax")
+    function showMenu(){
+        parallaxMenu.style.display = "block"
+        return false;
+    }
+    function hideMenu(){
+        parallaxMenu.style.display = "none"
+    }
+</script></body>
 </html>

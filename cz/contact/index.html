@@ -8,39 +8,60 @@
         <link rel="stylesheet" href="https://dcsemi.github.io/ct-web-deploy/css\styles.css">
     </head>
     <body><div class="fade-in-fast menu-parallax" style="position: absolute; border-top: 4px solid #169FE6; height:100vh; width: 100%; background-color: white; z-index: 100; display:none;">
-    <div class="flex flex-row-reverse px-4 py-4" style="width:100%; ">
+    <div class="flex flex-row-reverse px-4 py-4 pr-6" style="width:100%; height:100px;">
         <button type="button" onclick="hideMenu()">
             <i class="ml-3 close-icon"></i>
         </button>
     </div>
     <ul style="text-align: center; " class="">
         
-        <li class="text-xl py-2">
-            <a href="/ct-web-deploy/cz/">Domů</a>
-        </li>
+        <a href="/ct-web-deploy/cz/">
+            <li class="text-xl py-2 hover:bg-lightgray2">
+                Domů
+            </li>
+        </a>
+        
        
-        <li class="text-xl py-2">
-            <a href="/ct-web-deploy/cz/company/">Firma</a>
-        </li>
+        <a href="/ct-web-deploy/cz/company/">
+            <li class="text-xl py-2 hover:bg-lightgray2">
+                Firma
+            </li>
+        </a>
+        
        
-        <li class="text-xl py-2">
-            <a href="/ct-web-deploy/cz/products/">Výrobky</a>
-        </li>
+        <a href="/ct-web-deploy/cz/products/">
+            <li class="text-xl py-2 hover:bg-lightgray2">
+                Výrobky
+            </li>
+        </a>
+        
        
-        <li class="text-xl py-2">
-            <a href="/ct-web-deploy/cz/technology/">Technologie</a>
-        </li>
+        <a href="/ct-web-deploy/cz/technology/">
+            <li class="text-xl py-2 hover:bg-lightgray2">
+                Technologie
+            </li>
+        </a>
+        
        
-        <li class="text-xl py-2">
-            <a href="/ct-web-deploy/cz/quality/">Kvalita&nbsp;a&nbsp;certifikáty</a>
-        </li>
+        <a href="/ct-web-deploy/cz/quality/">
+            <li class="text-xl py-2 hover:bg-lightgray2">
+                Kvalita&nbsp;a&nbsp;certifikáty
+            </li>
+        </a>
+        
        
-        <li class="text-xl py-2">
-            <a href="/ct-web-deploy/cz/contact/">Kontakt</a>
-        </li>
+        <a href="/ct-web-deploy/cz/contact/">
+            <li class="text-xl py-2 hover:bg-lightgray2">
+                Kontakt
+            </li>
+        </a>
+        
        
     </ul>
 </div>
+
+
+
 <header style="border-top: 4px solid #169FE6; border-bottom:1px solid #e7e7e7;">
     <div class="flex flex-row mx-auto" style="max-width:1500px;">
         <div class="basis-1/2 flex items-end">
@@ -107,7 +128,7 @@
 		<div class="flex h-16 items-center" >
 			<div class="grow-0"> <h1 class="font-semibold text-xl">Kontakt</h1> </div>
 			<div class="grow"></div>
-			<div class="grow-0"> <h4 class="text-gray">Nacházíte se zde: <a href="https://dcsemi.github.io/ct-web-deploy/" class="text-primary underline" href="#">Domů</a> > Kontakt</h4></div>
+			<div class="grow-0"> <h4 class="text-gray">Nacházíte&nbsp;se&nbsp;zde:&nbsp;<a href="https://dcsemi.github.io/ct-web-deploy/" class="text-primary underline" href="#">Domů</a>&nbsp;>&nbsp;Kontakt</h4></div>
 		</div>
 	</div>
 </div>
@@ -132,16 +153,16 @@
 <div class="mx-auto px-4 pt-6" style="max-width:1500px;">
 	<div class="grid md:grid-cols-2 grid-cols-1  gap-4">
 		<div class="bg-lightgray2 rounded grid grid-cols-2 py-6">
-			<div class="flex">
+			<div class=" flex md:col-span-1 col-span-2">
 				<div class="grow"></div>
 				<div>
-					<h1 class="font-bold text-xl">Výrobní závod</h1>
-					<h2 class="text-lg">korespondenční adresa</h2>
+					<h1 class="pl-4 font-bold text-xl">Výrobní závod</h1>
+					<h2 class="pl-4 text-lg pb-4">korespondenční adresa</h2>
 				</div>
 				<div class="grow"></div>
 			</div>
-			<div>
-				<ul class="pr-4 text-lg" style="max-width: 250px;">			
+			<div class=" md:col-span-1 col-span-2">
+				<ul class="pr-4 text-lg mx-auto" style="max-width: 250px;">			
 					<li>
 						<span style="display:inline-block; width: 20px; "><i class="pin-icon"></i></span>
 						<span >Jerlochovice 120</span>
@@ -151,7 +172,6 @@
 						<span style="display:inline-block; width: 20px; "></span>
 						<span>742 45 Fulnek</span>
 					</li>
-	
 					<li class="pb-4">
 						<span style="display:inline-block; width: 20px; "></span>
 						<span>Czech Republic</span>
@@ -162,20 +182,19 @@
 
 
 		<div class="bg-lightgray2 rounded grid grid-cols-2 py-6">
-			<div class="flex">
+			<div class="flex md:col-span-1 col-span-2">
 				<div class="grow"></div>
 				<div>
-					<h1 class="font-bold text-xl">Sídlo</h1>
-					<h2 class="text-lg">fakturační adresa</h2>
+					<h1 class="pl-4 font-bold text-xl">Sídlo</h1>
+					<h2 class="pl-4 text-lg pb-4">fakturační adresa</h2>
 				</div>
 				<div class="grow"></div>
 			</div>
-			<div>
-				<ul class="pr-4 text-lg" style="max-width: 250px;">			
+			<div class="md:col-span-1 col-span-2">
+				<ul class="mx-auto pr-4 text-lg" style="max-width: 250px;">			
 					<li>
 						<span style="display:inline-block; width: 20px; "><i class="pin-icon"></i></span>
 						<span >Benešovská 1954/22</span>
-					
 					</li>
 					<li>
 						<span style="display:inline-block; width: 20px; "></span>
@@ -227,18 +246,18 @@
 				<span style="display:inline-block; width: 20px; "><i class="phone-icon"></i></span>
 				<span class="font-bold" href="">Tel. číslo:</span>
 			</div>
-			<div class="col-span-2"><a class="underline" href="">+420 725 967 111</a></div>
+			<div class="col-span-2"><a class="underline text-primary" href="">+420 725 967 111</a></div>
 			<div class="font-semibold">
 				<span style="display:inline-block; width: 20px; "><i class="mail-icon"></i></span>
 				<span class="font-bold">E-mail:</span>
 			</div>
-			<div class="col-span-2"> <a class="underline" href="">ct-products@ct-products.cz </a> </div>	
-
+			<div class="col-span-2"> <a class="underline text-primary" href="">ct-products@ct-products.cz </a> </div>	
+ 
 			<div class="font-semibold">
 				<span style="display:inline-block; width: 20px; "><i class="mail-icon"></i></span>
 				<span class="font-bold">E-fakturace:</span>
 			</div>
-			<div class="col-span-2"> <a class="underline" href=""> fakturace@ct-products.cz</a> </div>	
+			<div class="col-span-2"> <a class="underline text-primary" href=""> fakturace@ct-products.cz</a> </div>	
 		</div>
 
 	</div>
@@ -275,8 +294,8 @@
 
 			
 			<div class="text-center pb-4 rounded p-4 text-lg" style="border: 1px solid #CECECE;">
-                <img width="150" height="150" class="mx-auto rounded-full" src="https://dcsemi.github.io/ct-web-deploy/img/team/petra.jpg" alt="" style="max-width:150px; max-height:150px; border:7px solid #CECECE;">    
-
+                <img width="150" height="150" class="mx-auto rounded-full" src="https://dcsemi.github.io/ct-web-deploy/img/team/teammate_placeholder.svg" alt="" style="max-width:150px; max-height:150px; border:7px solid #CECECE;">    
+                
 				<h3 class="font-bold py-2">Bc. Petra Čeganová</h3>
 				<h4 class="font-semibold">Asistent obchodu</h4>
 				<h4>Komunikace: Angličtina, Čeština</h4>
@@ -380,8 +399,6 @@
 	</div>
 </div>
 <footer class="text-sm" style="width:100%;">
-
-
     <div style="background-color:#4C4C4C;">
         <div class=" md:block hidden text-center mx-auto py-4" style="max-width: 1500px; color: #B5B5B5;">
             <div>
@@ -402,11 +419,6 @@
 
         </div>
     </div>
-
-
-    
-
-
     <div class="py-6 block md:hidden" style="text-align:center; background-color: #4C4C4C; color: #B5B5B5;">
         <ul>
             
@@ -429,7 +441,16 @@
     </div>
 </footer>
 
-<script src="\js\script.js"></script></body>
+<script>
+    let parallaxMenu = document.querySelector(".menu-parallax")
+    function showMenu(){
+        parallaxMenu.style.display = "block"
+        return false;
+    }
+    function hideMenu(){
+        parallaxMenu.style.display = "none"
+    }
+</script></body>
 <script>
 	function closeNote(){
 		var note = document.getElementById('notification');
