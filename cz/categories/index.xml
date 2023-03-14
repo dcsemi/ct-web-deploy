@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Domů</title>
-    <link>https://dcsemi.github.io/ct-web-deploy/cz/categories/</link>
+    <link>http://www.ct-products.cz/cz/categories/</link>
     <description>Recent content in Categories on Domů</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dcsemi.github.io/ct-web-deploy/cz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.ct-products.cz/cz/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

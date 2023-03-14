@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home</title>
-    <link>https://dcsemi.github.io/ct-web-deploy/</link>
+    <link>http://www.ct-products.cz/</link>
     <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dcsemi.github.io/ct-web-deploy/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.ct-products.cz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Company</title>
-      <link>https://dcsemi.github.io/ct-web-deploy/company/</link>
+      <link>http://www.ct-products.cz/company/</link>
       <pubDate>Mon, 19 Dec 2022 09:41:53 +0100</pubDate>
       
-      <guid>https://dcsemi.github.io/ct-web-deploy/company/</guid>
+      <guid>http://www.ct-products.cz/company/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Products</title>
-      <link>https://dcsemi.github.io/ct-web-deploy/products/</link>
+      <link>http://www.ct-products.cz/products/</link>
       <pubDate>Tue, 13 Dec 2022 10:41:29 +0100</pubDate>
       
-      <guid>https://dcsemi.github.io/ct-web-deploy/products/</guid>
+      <guid>http://www.ct-products.cz/products/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quality&amp;nbsp;and&amp;nbsp;certificates</title>
-      <link>https://dcsemi.github.io/ct-web-deploy/quality/</link>
+      <link>http://www.ct-products.cz/quality/</link>
       <pubDate>Tue, 13 Dec 2022 10:41:29 +0100</pubDate>
       
-      <guid>https://dcsemi.github.io/ct-web-deploy/quality/</guid>
+      <guid>http://www.ct-products.cz/quality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technology</title>
-      <link>https://dcsemi.github.io/ct-web-deploy/technology/</link>
+      <link>http://www.ct-products.cz/technology/</link>
       <pubDate>Thu, 08 Dec 2022 09:36:14 +0100</pubDate>
       
-      <guid>https://dcsemi.github.io/ct-web-deploy/technology/</guid>
+      <guid>http://www.ct-products.cz/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://dcsemi.github.io/ct-web-deploy/contact/</link>
+      <link>http://www.ct-products.cz/contact/</link>
       <pubDate>Tue, 06 Dec 2022 14:41:48 +0100</pubDate>
       
-      <guid>https://dcsemi.github.io/ct-web-deploy/contact/</guid>
+      <guid>http://www.ct-products.cz/contact/</guid>
       <description>Introduction This is some text man</description>
     </item>
     
