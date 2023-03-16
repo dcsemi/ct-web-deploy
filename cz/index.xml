@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Domů</title>
-    <link>https://www.ct-products.cz/cz/</link>
+    <link>http://www.ct-products.cz/cz/</link>
     <description>Recent content on Domů</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://www.ct-products.cz/cz/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://www.ct-products.cz/cz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firma</title>
-      <link>https://www.ct-products.cz/cz/company/</link>
+      <link>http://www.ct-products.cz/cz/company/</link>
       <pubDate>Mon, 19 Dec 2022 09:41:53 +0100</pubDate>
       
-      <guid>https://www.ct-products.cz/cz/company/</guid>
+      <guid>http://www.ct-products.cz/cz/company/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kvalita&amp;nbsp;a&amp;nbsp;certifikáty</title>
-      <link>https://www.ct-products.cz/cz/quality/</link>
+      <link>http://www.ct-products.cz/cz/quality/</link>
       <pubDate>Tue, 13 Dec 2022 10:41:29 +0100</pubDate>
       
-      <guid>https://www.ct-products.cz/cz/quality/</guid>
+      <guid>http://www.ct-products.cz/cz/quality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Výrobky</title>
-      <link>https://www.ct-products.cz/cz/products/</link>
+      <link>http://www.ct-products.cz/cz/products/</link>
       <pubDate>Tue, 13 Dec 2022 10:41:29 +0100</pubDate>
       
-      <guid>https://www.ct-products.cz/cz/products/</guid>
+      <guid>http://www.ct-products.cz/cz/products/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Technologie</title>
-      <link>https://www.ct-products.cz/cz/technology/</link>
+      <link>http://www.ct-products.cz/cz/technology/</link>
       <pubDate>Thu, 08 Dec 2022 09:36:14 +0100</pubDate>
       
-      <guid>https://www.ct-products.cz/cz/technology/</guid>
+      <guid>http://www.ct-products.cz/cz/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>https://www.ct-products.cz/cz/contact/</link>
+      <link>http://www.ct-products.cz/cz/contact/</link>
       <pubDate>Tue, 06 Dec 2022 14:41:48 +0100</pubDate>
       
-      <guid>https://www.ct-products.cz/cz/contact/</guid>
+      <guid>http://www.ct-products.cz/cz/contact/</guid>
       <description>Introduction </description>
     </item>
     
