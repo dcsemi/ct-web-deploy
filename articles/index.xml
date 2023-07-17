@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Home</title>
+    <link>https://www.ct-products.cz/articles/</link>
+    <description>Recent content in Articles on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Apr 2023 11:52:59 +0200</lastBuildDate><atom:link href="https://www.ct-products.cz/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cargo trailers</title>
+      <link>https://www.ct-products.cz/articles/cargo-trailers/</link>
+      <pubDate>Thu, 13 Apr 2023 11:52:59 +0200</pubDate>
+      
+      <guid>https://www.ct-products.cz/articles/cargo-trailers/</guid>
+      <description>Our specialty lies in producing cargo trailers that are tailored to specific needs.</description>
+    </item>
+    
+    <item>
+      <title>Offshore products</title>
+      <link>https://www.ct-products.cz/articles/offshore-products/</link>
+      <pubDate>Thu, 13 Apr 2023 11:52:59 +0200</pubDate>
+      
+      <guid>https://www.ct-products.cz/articles/offshore-products/</guid>
+      <description>We produce special containers and equipment intended for petroleum industry.</description>
+    </item>
+    
+    <item>
+      <title>Stainless steel products</title>
+      <link>https://www.ct-products.cz/articles/stainless-steel-products/</link>
+      <pubDate>Thu, 13 Apr 2023 11:52:59 +0200</pubDate>
+      
+      <guid>https://www.ct-products.cz/articles/stainless-steel-products/</guid>
+      <description>We have the best quality welding and metal-working machines in the field of the stainless steel production.</description>
+    </item>
+    
+  </channel>
+</rss>
