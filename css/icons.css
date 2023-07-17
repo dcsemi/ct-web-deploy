@@ -27,6 +27,31 @@
     display: block;
 }
 
+.arrow-down-icon {
+    background: url("../img/arrow-down-s-line.svg");
+    /* background: url("../img/arrow_left.svg"); */
+    height: 16px;
+    width: 20px;
+    display: inline-block;
+    /* display: block; */
+}
+
+.arrow-down-icon-white {
+    background: url("../img/arrow-down-s-line-white.svg");
+    /* background: url("../img/arrow_left.svg"); */
+    height: 16px;
+    width: 20px;
+    display: inline-block;
+    /* display: block; */
+}
+
+
+.home-icon {
+    background: url("../img/home.svg");
+    height: 24px;
+    width: 24px;
+    display: block;
+}
 
 .menu-icon {
     background: url("../img/menu-line.svg");

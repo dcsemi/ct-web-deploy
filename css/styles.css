@@ -83,3 +83,10 @@
   width:100%;
   position:absolute;
 }
+
+.dropdown-content{
+  display: none;
+  position: absolute;
+  z-index: 10;
+}
+.dropdown:hover .dropdown-content {display: block;}
