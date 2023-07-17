@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Domů</title>
+    <link>https://www.ct-products.cz/cz/articles/</link>
+    <description>Recent content in Articles on Domů</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Apr 2023 11:52:59 +0200</lastBuildDate><atom:link href="https://www.ct-products.cz/cz/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Návěsy</title>
+      <link>https://www.ct-products.cz/cz/articles/navesy/</link>
+      <pubDate>Thu, 13 Apr 2023 11:52:59 +0200</pubDate>
+      
+      <guid>https://www.ct-products.cz/cz/articles/navesy/</guid>
+      <description>TODO: Doplnit</description>
+    </item>
+    
+    <item>
+      <title>Nerezová výroba</title>
+      <link>https://www.ct-products.cz/cz/articles/nerezova-vyroba/</link>
+      <pubDate>Thu, 13 Apr 2023 11:52:59 +0200</pubDate>
+      
+      <guid>https://www.ct-products.cz/cz/articles/nerezova-vyroba/</guid>
+      <description>V oblasti nerezové výroby disponujeme prvotřídními svářecími a obráběcími stroji.</description>
+    </item>
+    
+    <item>
+      <title>Offshore kontejnery</title>
+      <link>https://www.ct-products.cz/cz/articles/offshore-kontejnery/</link>
+      <pubDate>Thu, 13 Apr 2023 11:52:59 +0200</pubDate>
+      
+      <guid>https://www.ct-products.cz/cz/articles/offshore-kontejnery/</guid>
+      <description>Vyrábíme speciální kontejnery a zařízení určené pro ropný průmysl.</description>
+    </item>
+    
+  </channel>
+</rss>

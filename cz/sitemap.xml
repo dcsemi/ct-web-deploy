@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ct-products.cz/cz/articles/</loc>
+    <lastmod>2023-04-13T11:52:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ct-products.cz/articles/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://www.ct-products.cz/cz/articles/"
+                />
+  </url><url>
+    <loc>https://www.ct-products.cz/cz/</loc>
+    <lastmod>2023-04-13T11:52:59+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ct-products.cz/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://www.ct-products.cz/cz/"
+                />
+  </url><url>
+    <loc>https://www.ct-products.cz/cz/articles/navesy/</loc>
+    <lastmod>2023-04-13T11:52:59+02:00</lastmod>
+  </url><url>
+    <loc>https://www.ct-products.cz/cz/articles/nerezova-vyroba/</loc>
+    <lastmod>2023-04-13T11:52:59+02:00</lastmod>
+  </url><url>
+    <loc>https://www.ct-products.cz/cz/articles/offshore-kontejnery/</loc>
+    <lastmod>2023-04-13T11:52:59+02:00</lastmod>
+  </url><url>
     <loc>https://www.ct-products.cz/cz/company/</loc>
     <lastmod>2022-12-19T09:41:53+01:00</lastmod>
     <xhtml:link
@@ -13,6 +48,32 @@
                 rel="alternate"
                 hreflang="cz"
                 href="https://www.ct-products.cz/cz/company/"
+                />
+  </url><url>
+    <loc>https://www.ct-products.cz/cz/history/</loc>
+    <lastmod>2022-12-19T09:41:53+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ct-products.cz/history/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://www.ct-products.cz/cz/history/"
+                />
+  </url><url>
+    <loc>https://www.ct-products.cz/cz/aboutus/</loc>
+    <lastmod>2022-12-19T09:41:53+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ct-products.cz/aboutus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cz"
+                href="https://www.ct-products.cz/cz/aboutus/"
                 />
   </url><url>
     <loc>https://www.ct-products.cz/cz/quality/</loc>
@@ -77,18 +138,6 @@
                 rel="alternate"
                 hreflang="cz"
                 href="https://www.ct-products.cz/cz/categories/"
-                />
-  </url><url>
-    <loc>https://www.ct-products.cz/cz/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ct-products.cz/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cz"
-                href="https://www.ct-products.cz/cz/"
                 />
   </url><url>
     <loc>https://www.ct-products.cz/cz/tags/</loc>
