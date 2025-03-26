@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Custom Solutions on Home</title>
-    <link>http://192.168.1.100:1313/tags/custom-solutions/</link>
+    <link>https://ct-products.cz/tags/custom-solutions/</link>
     <description>Recent content in Custom Solutions on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://192.168.1.100:1313/tags/custom-solutions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ct-products.cz/tags/custom-solutions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cargo chasis trailers</title>
-      <link>http://192.168.1.100:1313/products/cargo-chasis-trailers/</link>
+      <link>https://ct-products.cz/products/cargo-chasis-trailers/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/products/cargo-chasis-trailers/</guid>
+      <guid>https://ct-products.cz/products/cargo-chasis-trailers/</guid>
       <description>&lt;p&gt;Our additional long-standing expertise lies in the production of cargo trailers. Here, we excel in collaboration with our customers by processing our own technical documentation. Typically, in this sector, we deal with small-batch production. We are capable of working with high-strength and wear-resistant quenched steels, such as S600 MC, Weldox 900, and others. Subsequently, in this field, we have implemented our own automated process for welding long seams. We manufacture trailers of various lengths, ranging from 6 to 12 m.&lt;/p&gt;</description>
     </item>
   </channel>

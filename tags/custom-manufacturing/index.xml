@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Custom Manufacturing on Home</title>
-    <link>http://192.168.1.100:1313/tags/custom-manufacturing/</link>
+    <link>https://ct-products.cz/tags/custom-manufacturing/</link>
     <description>Recent content in Custom Manufacturing on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://192.168.1.100:1313/tags/custom-manufacturing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ct-products.cz/tags/custom-manufacturing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Other products</title>
-      <link>http://192.168.1.100:1313/products/other-products/</link>
+      <link>https://ct-products.cz/products/other-products/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/products/other-products/</guid>
+      <guid>https://ct-products.cz/products/other-products/</guid>
       <description>&lt;p&gt;Explore the gallery of our other products. In the gallery, you will find countless products, using individual technologies and their combinations. We offer single sheet metal parts, bent sheet metal parts, weldments, machined parts, assembled units. We also are capable to weld aluminium parts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our products</title>
-      <link>http://192.168.1.100:1313/products/</link>
+      <link>https://ct-products.cz/products/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/products/</guid>
+      <guid>https://ct-products.cz/products/</guid>
       <description>&lt;p&gt;Our products are designed with precision, durability, and functionality in mind. We offer a wide range of custom-engineered solutions tailored to meet the specific needs of our clients. With a focus on quality and innovation, we ensure that every product meets the highest industry standards.&#xA;&lt;br&gt;&#xA; &#xA;&lt;br&gt;&#xA;Serving various industries, including oil and gas, automotive, clean tech, agriculture, and more, our diverse portfolio demonstrates our ability to adapt to different sector requirements.&lt;/p&gt;</description>
     </item>
   </channel>

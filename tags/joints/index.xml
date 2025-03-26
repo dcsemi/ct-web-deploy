@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joints on Home</title>
-    <link>http://192.168.1.100:1313/tags/joints/</link>
+    <link>https://ct-products.cz/tags/joints/</link>
     <description>Recent content in Joints on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://192.168.1.100:1313/tags/joints/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ct-products.cz/tags/joints/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welding</title>
-      <link>http://192.168.1.100:1313/technology/welding/</link>
+      <link>https://ct-products.cz/technology/welding/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/technology/welding/</guid>
+      <guid>https://ct-products.cz/technology/welding/</guid>
       <description>&lt;p&gt;We are dedicated to delivering welding and inspection processes that adhere to the stringent standards of ISO 3834-2. Our commitment to excellence is reflected in our use of advanced techniques, including MIG (131), MAG (135), and TIG (141).&#xA;&lt;br&gt;&#xA; &#xA;&lt;br&gt;&#xA;From concept to creation, our metal fabrication services cover a wide spectrum, including structural steel, aluminium, and stainless steel fabrication.&#xA;We understand that each project is unique. That&amp;rsquo;s why International Welding Engineer (IWE) is an integral part of our team. Their proficiency and knowledge contribute to the continuous enhancement of our welding processes, making us a reliable partner for projects that demand precision and international standards.&#xA;&lt;br&gt;&#xA; &#xA;&lt;br&gt;&#xA;Our team comprises qualified welding personnel who bring a wealth of expertise to every project, ensuring accuracy and reliability in every weld.&lt;/p&gt;</description>
     </item>
   </channel>

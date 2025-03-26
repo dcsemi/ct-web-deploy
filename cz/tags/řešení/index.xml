@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Řešení on Domů</title>
-    <link>http://192.168.1.100:1313/cz/tags/%C5%99e%C5%A1en%C3%AD/</link>
+    <link>https://ct-products.cz/cz/tags/%C5%99e%C5%A1en%C3%AD/</link>
     <description>Recent content in Řešení on Domů</description>
     <generator>Hugo</generator>
     <language>cs-CZ</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://192.168.1.100:1313/cz/tags/%C5%99e%C5%A1en%C3%AD/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ct-products.cz/cz/tags/%C5%99e%C5%A1en%C3%AD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ostatní produkty</title>
-      <link>http://192.168.1.100:1313/cz/products/other-products/</link>
+      <link>https://ct-products.cz/cz/products/other-products/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/cz/products/other-products/</guid>
+      <guid>https://ct-products.cz/cz/products/other-products/</guid>
       <description>&lt;p&gt;Prozkoumejte galerii našich ostatních výrobků. V galerii naleznete nespočet výrobků jak za použití jednotlivých technologii, tak i jejich kombinací. Nabízíme výpalky, ohnuté plechové díly, svařence, obráběné díly, smontované celky. Také jsme schopni svařovat i hliníkové konstrukce.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Produkty</title>
-      <link>http://192.168.1.100:1313/cz/products/</link>
+      <link>https://ct-products.cz/cz/products/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/cz/products/</guid>
+      <guid>https://ct-products.cz/cz/products/</guid>
       <description>&lt;p&gt;Naše produkty jsou navrženy s důrazem na přesnost, odolnost a funkčnost. Nabízíme širokou škálu zakázkových řešení přizpůsobených specifickým potřebám našich klientů. S důrazem na kvalitu a inovace zajišťujeme, že každý výrobek splňuje nejvyšší průmyslové standardy.&#xA;&lt;br&gt;&#xA; &#xA;&lt;br&gt;&#xA;Obsluhujeme různé odvětví, včetně ropného a plynárenského průmyslu, automobilového sektoru, potravinářského průmyslu, zemědělství a dalších. Naše rozmanité portfolio dokazuje naši schopnost přizpůsobit se požadavkům různých sektorů.&lt;/p&gt;</description>
     </item>
   </channel>

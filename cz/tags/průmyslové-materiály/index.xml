@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Průmyslové Materiály on Domů</title>
-    <link>http://192.168.1.100:1313/cz/tags/pr%C5%AFmyslov%C3%A9-materi%C3%A1ly/</link>
+    <link>https://ct-products.cz/cz/tags/pr%C5%AFmyslov%C3%A9-materi%C3%A1ly/</link>
     <description>Recent content in Průmyslové Materiály on Domů</description>
     <generator>Hugo</generator>
     <language>cs-CZ</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://192.168.1.100:1313/cz/tags/pr%C5%AFmyslov%C3%A9-materi%C3%A1ly/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ct-products.cz/cz/tags/pr%C5%AFmyslov%C3%A9-materi%C3%A1ly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nerezové produkty</title>
-      <link>http://192.168.1.100:1313/cz/products/stainless-steel-products/</link>
+      <link>https://ct-products.cz/cz/products/stainless-steel-products/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/cz/products/stainless-steel-products/</guid>
+      <guid>https://ct-products.cz/cz/products/stainless-steel-products/</guid>
       <description>&lt;p&gt;Jeden z dalších pilířů naší výroby je svařování nerezové oceli. Na naši samostatné dílně svařujeme menší a lehčí svařence oproti výrobě kontejnerů či návěsů. Zde máme zkušenosti s výrobou potravinářských konstrukcí, trubek, nádrží a spoustu jiných svařenců. Ve svařování nerezu jsme se setkali i s žáruvzdornou ocelí.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vývoj on Domů</title>
-    <link>http://192.168.1.100:1313/cz/tags/v%C3%BDvoj/</link>
+    <link>https://ct-products.cz/cz/tags/v%C3%BDvoj/</link>
     <description>Recent content in Vývoj on Domů</description>
     <generator>Hugo</generator>
     <language>cs-CZ</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://192.168.1.100:1313/cz/tags/v%C3%BDvoj/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ct-products.cz/cz/tags/v%C3%BDvoj/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Strojírenství</title>
-      <link>http://192.168.1.100:1313/cz/technology/engineering/</link>
+      <link>https://ct-products.cz/cz/technology/engineering/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/cz/technology/engineering/</guid>
+      <guid>https://ct-products.cz/cz/technology/engineering/</guid>
       <description>&lt;p&gt;Firma umí zpracovat potřebnou technickou dokumentaci. Tak jako je čtení a pochopení výrobních výkresů. Umí zpracovat i 3d modely, ke kterým využíváme software Solidedge 2019. V týmu máme schopné lidi, kteří se nebojí chytnout projektu. Umí pracovat s ne vždy dokonalou technickou dokumentací. Popřípadě překreslí výrobní výkresy pro své výrobní potřeby a zvolí nejjednodušší a nejlevnější technologii výroby. V určitých případech je firma schopna poskytnout návrh konstrukcí.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Technologie</title>
-      <link>http://192.168.1.100:1313/cz/technology/</link>
+      <link>https://ct-products.cz/cz/technology/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/cz/technology/</guid>
+      <guid>https://ct-products.cz/cz/technology/</guid>
       <description>&lt;p&gt;Naše společnost využívá pokročilé technologie k zajištění přesnosti, efektivity a inovací v každém projektu. Od špičkového obrábění po nejmodernější výrobní procesy nám naše odborné znalosti umožňují dodávat vysoce kvalitní, na míru navržená řešení, která splňují i ty nejnáročnější požadavky.&lt;/p&gt;</description>
     </item>
   </channel>

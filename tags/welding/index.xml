@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welding on Home</title>
-    <link>http://192.168.1.100:1313/tags/welding/</link>
+    <link>https://ct-products.cz/tags/welding/</link>
     <description>Recent content in Welding on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://192.168.1.100:1313/tags/welding/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ct-products.cz/tags/welding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welding</title>
-      <link>http://192.168.1.100:1313/technology/welding/</link>
+      <link>https://ct-products.cz/technology/welding/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/technology/welding/</guid>
+      <guid>https://ct-products.cz/technology/welding/</guid>
       <description>&lt;p&gt;We are dedicated to delivering welding and inspection processes that adhere to the stringent standards of ISO 3834-2. Our commitment to excellence is reflected in our use of advanced techniques, including MIG (131), MAG (135), and TIG (141).&#xA;&lt;br&gt;&#xA; &#xA;&lt;br&gt;&#xA;From concept to creation, our metal fabrication services cover a wide spectrum, including structural steel, aluminium, and stainless steel fabrication.&#xA;We understand that each project is unique. That&amp;rsquo;s why International Welding Engineer (IWE) is an integral part of our team. Their proficiency and knowledge contribute to the continuous enhancement of our welding processes, making us a reliable partner for projects that demand precision and international standards.&#xA;&lt;br&gt;&#xA; &#xA;&lt;br&gt;&#xA;Our team comprises qualified welding personnel who bring a wealth of expertise to every project, ensuring accuracy and reliability in every weld.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welding automation</title>
-      <link>http://192.168.1.100:1313/technology/welding-automation/</link>
+      <link>https://ct-products.cz/technology/welding-automation/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/technology/welding-automation/</guid>
+      <guid>https://ct-products.cz/technology/welding-automation/</guid>
       <description>&lt;p&gt;We developed device for welding long welds. The device is mainly designed for welding long welds of fillet welds and butt welds by methods MIG or MAG. Advantages of this device is simultaneous welding from two sides. Its main components consist of a support frame with a longitudinal positioning table for workpieces and a horizontal linear track with a traversing carriage. This track includes a carriage drive, wire feeders, welding torches, technological torches with vertical and horizontal correction supports, welding torch holders, and a control unit. The welding process is operated by two remote control joysticks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Home</title>
-      <link>http://192.168.1.100:1313/</link>
+      <link>https://ct-products.cz/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/</guid>
+      <guid>https://ct-products.cz/</guid>
       <description></description>
     </item>
   </channel>

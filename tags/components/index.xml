@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Components on Home</title>
-    <link>http://192.168.1.100:1313/tags/components/</link>
+    <link>https://ct-products.cz/tags/components/</link>
     <description>Recent content in Components on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://192.168.1.100:1313/tags/components/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ct-products.cz/tags/components/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assemblies and products testing</title>
-      <link>http://192.168.1.100:1313/technology/assemblies/</link>
+      <link>https://ct-products.cz/technology/assemblies/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/technology/assemblies/</guid>
+      <guid>https://ct-products.cz/technology/assemblies/</guid>
       <description>&lt;p&gt;We offer product testing services to our clients. One of the most crucial tests we conduct is on offshore welding structures, where we have our own testing equipment. This includes a testing tower with a hydraulic cylinder capable of exerting a force of up to 100 tons. We perform two types of tests: production tests and prototype tests.&lt;/p&gt;&#xA;&lt;p&gt;Additionally, we provide pressure tests and leak tests for welded structures such as tanks, containers, pipes, and more. We are also capable of final assembly for the end product, which involves screwing, riveting, pressing, or welding as needed.&lt;/p&gt;</description>
     </item>
   </channel>

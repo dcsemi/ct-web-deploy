@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quality and certificates on Home</title>
-    <link>http://192.168.1.100:1313/quality/</link>
+    <link>https://ct-products.cz/quality/</link>
     <description>Recent content in Quality and certificates on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://192.168.1.100:1313/quality/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ct-products.cz/quality/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

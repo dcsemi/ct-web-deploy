@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Development on Home</title>
-    <link>http://192.168.1.100:1313/tags/development/</link>
+    <link>https://ct-products.cz/tags/development/</link>
     <description>Recent content in Development on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://192.168.1.100:1313/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ct-products.cz/tags/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Engineering</title>
-      <link>http://192.168.1.100:1313/technology/engineering/</link>
+      <link>https://ct-products.cz/technology/engineering/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/technology/engineering/</guid>
+      <guid>https://ct-products.cz/technology/engineering/</guid>
       <description>&lt;p&gt;The company is capable of processing the necessary technical documentation, such as reading and understanding manufacturing drawings. It can also handle 3D models, utilizing Solid Edge 2019 software for this purpose. The team consists of skilled individuals who are not afraid to take on projects. They can work even with less than perfect technical documentation. If needed, they can redraw manufacturing drawings for their production needs and choose the simplest and most cost-effective manufacturing technology. In exceptional cases, the company may also provide design proposals for constructions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Technology</title>
-      <link>http://192.168.1.100:1313/technology/</link>
+      <link>https://ct-products.cz/technology/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://192.168.1.100:1313/technology/</guid>
+      <guid>https://ct-products.cz/technology/</guid>
       <description>&lt;p&gt;Our company utilizes advanced technologies to ensure precision, efficiency, and innovation in every project. From cutting-edge machining to state-of-the-art fabrication processes, our expertise allows us to deliver high-quality, custom-engineered solutions that meet the most demanding requirements.&lt;/p&gt;</description>
     </item>
   </channel>
