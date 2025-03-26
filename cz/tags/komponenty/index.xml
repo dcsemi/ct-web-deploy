@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Komponenty on Domů</title>
+    <link>http://192.168.1.100:1313/cz/tags/komponenty/</link>
+    <description>Recent content in Komponenty on Domů</description>
+    <generator>Hugo</generator>
+    <language>cs-CZ</language>
+    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
+    <atom:link href="http://192.168.1.100:1313/cz/tags/komponenty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Montáže a testování produktů</title>
+      <link>http://192.168.1.100:1313/cz/technology/assemblies/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/cz/technology/assemblies/</guid>
+      <description>&lt;p&gt;Klientům nabízíme testování produktů. Jedním z nejdůležitějších testování provádíme na offshorových svařencích. Zde disponujeme vlastním zkušebním zařízením. Jedná se o zkušební věž s hydraulickým válcem. Zde jsme schopni vyvinout sílu až 100 tun. Provádíme dva typy testů produkční a prototypový test.&lt;/p&gt;&#xA;&lt;p&gt;Dále nabízíme tlakové zkoušky nebo zkoušky těsnosti u svařenců typů nádrží, nádob, trubek, aj. Finální výrobek umíme i zkompletovat pomocí finální montáže. To znamená sešroubováním, snýtováním, nalisováním popřípadě dovařením.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

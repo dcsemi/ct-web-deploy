@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Standardy on Domů</title>
+    <link>http://192.168.1.100:1313/cz/tags/standardy/</link>
+    <description>Recent content in Standardy on Domů</description>
+    <generator>Hugo</generator>
+    <language>cs-CZ</language>
+    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
+    <atom:link href="http://192.168.1.100:1313/cz/tags/standardy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offshore kontejnery</title>
+      <link>http://192.168.1.100:1313/cz/products/offshore-containers/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/cz/products/offshore-containers/</guid>
+      <description>&lt;p&gt;Vyrábíme speciální kontejnery, podmořské koše a zařízení určené pro ropný průmysl. Kontejnery jsou tzv. Offshore to znamená, že jsou certifikované dle příslušných norem k překládání na volném moři. Stejně tak jsou certifikované i podmořské koše. Testování kontejnerů a dodržení kvality je důležitým aspektem při výrobě. Certifikaci, testování a dané normy si firma osvojila a naučila se zpracovávat náročnou potřebnou dokumentaci.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kvalita a certifikace</title>
+      <link>http://192.168.1.100:1313/cz/quality/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/cz/quality/</guid>
+      <description>&lt;p&gt;Požadavky na kvalitu výroby neustále rostou. Abychom těmto nárokům vyhověli, naše společnost úspěšně zavedla a udržuje certifikace podle mezinárodně uznávaných standardů řízení kvality, čímž potvrzujeme náš závazek k excelenci a neustálému zlepšování.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

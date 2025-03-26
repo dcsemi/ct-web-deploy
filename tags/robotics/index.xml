@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics on Home</title>
+    <link>http://192.168.1.100:1313/tags/robotics/</link>
+    <description>Recent content in Robotics on Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
+    <atom:link href="http://192.168.1.100:1313/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welding automation</title>
+      <link>http://192.168.1.100:1313/technology/welding-automation/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/technology/welding-automation/</guid>
+      <description>&lt;p&gt;We developed device for welding long welds. The device is mainly designed for welding long welds of fillet welds and butt welds by methods MIG or MAG. Advantages of this device is simultaneous welding from two sides. Its main components consist of a support frame with a longitudinal positioning table for workpieces and a horizontal linear track with a traversing carriage. This track includes a carriage drive, wire feeders, welding torches, technological torches with vertical and horizontal correction supports, welding torch holders, and a control unit. The welding process is operated by two remote control joysticks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

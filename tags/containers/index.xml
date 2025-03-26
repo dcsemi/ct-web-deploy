@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Containers on Home</title>
+    <link>http://192.168.1.100:1313/tags/containers/</link>
+    <description>Recent content in Containers on Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
+    <atom:link href="http://192.168.1.100:1313/tags/containers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offshore containers</title>
+      <link>http://192.168.1.100:1313/products/offshore-containers/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/products/offshore-containers/</guid>
+      <description>&lt;p&gt;We produce special containers and equipment intended for petroleum industry. The containers are of the offshore type which means they are certified according to respective standards for reloading on an open sea.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Home</title>
+      <link>http://192.168.1.100:1313/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

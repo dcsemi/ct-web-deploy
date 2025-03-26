@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Customer Service on Home</title>
+    <link>http://192.168.1.100:1313/tags/customer-service/</link>
+    <description>Recent content in Customer Service on Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
+    <atom:link href="http://192.168.1.100:1313/tags/customer-service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://192.168.1.100:1313/contact/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/contact/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

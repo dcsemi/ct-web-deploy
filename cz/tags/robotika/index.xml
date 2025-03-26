@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotika on Domů</title>
+    <link>http://192.168.1.100:1313/cz/tags/robotika/</link>
+    <description>Recent content in Robotika on Domů</description>
+    <generator>Hugo</generator>
+    <language>cs-CZ</language>
+    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
+    <atom:link href="http://192.168.1.100:1313/cz/tags/robotika/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automatizace svařování</title>
+      <link>http://192.168.1.100:1313/cz/technology/welding-automation/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/cz/technology/welding-automation/</guid>
+      <description>&lt;p&gt;Vyvinuli jsme zařízení pro svařování dlouhých svarů. Zařízení je určeno pro svařování podélných koutových a tupých svarových spojů metodou MIG nebo MAG. Výhodou tohoto zařízení je možnost současného svařování ze dvou stran. Zařízení se skládá z nosného rámu. Na rámu je polohovatelný stůl, který slouží k upnutí svařence. Na rámu jsou také nosné stojany, na kterých je připevněna horizontální lineární dráha s pojezdovým suportem. Na pojezdovém Suportu je umístěn pohon suportu, dva podavače svařovacího drátu, příčné rameno s dvěma technologickými hlavicemi a řídící jednotka. Svařovací proces je ovládán pomocí dvou dálkových ovladačů typu joystick.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

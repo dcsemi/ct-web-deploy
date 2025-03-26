@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Products on Home</title><link>https://ct-products.cz/products/</link><description>Recent content in Products on Home</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://ct-products.cz/products/index.xml" rel="self" type="application/rss+xml"/><item><title>Offshore containers</title><link>https://ct-products.cz/products/offshore-containers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ct-products.cz/products/offshore-containers/</guid><description>We produce special containers and equipment intended for petroleum industry. The containers are of the offshore type which means they are certified according to respective standards for reloading on an open sea.</description></item><item><title>Cargo chasis trailers</title><link>https://ct-products.cz/products/cargo-chasis-trailers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ct-products.cz/products/cargo-chasis-trailers/</guid><description>Our additional long-standing expertise lies in the production of cargo trailers. Here, we excel in collaboration with our customers by processing our own technical documentation. Typically, in this sector, we deal with small-batch production. We are capable of working with high-strength and wear-resistant quenched steels, such as S600 MC, Weldox 900, and others. Subsequently, in this field, we have implemented our own automated process for welding long seams. We manufacture trailers of various lengths, ranging from 6 m to 12 m.</description></item><item><title>Stainless steel products</title><link>https://ct-products.cz/products/stainless-steel-products/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ct-products.cz/products/stainless-steel-products/</guid><description>One of the three pillars of our production is focused on welding stainless steel. Our dedicated workshop enables us to weld smaller, lighter weldments compared to the production of containers or trailers. Here, we have experience in manufacturing food industry structures, pipes, tanks, and various other welded components. In this field, we have also encountered heat-resistant stainless steels.</description></item><item><title>Other products</title><link>https://ct-products.cz/products/other-products/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ct-products.cz/products/other-products/</guid><description>Explore the gallery of our other products. In the gallery, you will find countless products, using individual technologies and their combinations. We offer single sheet metal parts, bent sheet metal parts, weldments, machined parts, assembled units. We also are capable to weld aluminium parts.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our products on Home</title>
+    <link>http://192.168.1.100:1313/products/</link>
+    <description>Recent content in Our products on Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
+    <atom:link href="http://192.168.1.100:1313/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Offshore containers</title>
+      <link>http://192.168.1.100:1313/products/offshore-containers/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/products/offshore-containers/</guid>
+      <description>&lt;p&gt;We produce special containers and equipment intended for petroleum industry. The containers are of the offshore type which means they are certified according to respective standards for reloading on an open sea.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cargo chasis trailers</title>
+      <link>http://192.168.1.100:1313/products/cargo-chasis-trailers/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/products/cargo-chasis-trailers/</guid>
+      <description>&lt;p&gt;Our additional long-standing expertise lies in the production of cargo trailers. Here, we excel in collaboration with our customers by processing our own technical documentation. Typically, in this sector, we deal with small-batch production. We are capable of working with high-strength and wear-resistant quenched steels, such as S600 MC, Weldox 900, and others. Subsequently, in this field, we have implemented our own automated process for welding long seams. We manufacture trailers of various lengths, ranging from 6 to 12 m.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stainless steel products</title>
+      <link>http://192.168.1.100:1313/products/stainless-steel-products/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/products/stainless-steel-products/</guid>
+      <description>&lt;p&gt;One of the three pillars of our production is focused on welding stainless steel. Our dedicated workshop enables us to weld smaller, lighter weldments compared to the production of containers or trailers. Here, we have experience in manufacturing food industry structures, pipes, tanks, and various other welded components. In this field, we have also encountered heat-resistant stainless steels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Other products</title>
+      <link>http://192.168.1.100:1313/products/other-products/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/products/other-products/</guid>
+      <description>&lt;p&gt;Explore the gallery of our other products. In the gallery, you will find countless products, using individual technologies and their combinations. We offer single sheet metal parts, bent sheet metal parts, weldments, machined parts, assembled units. We also are capable to weld aluminium parts.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

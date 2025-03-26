@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certifications on Home</title>
+    <link>http://192.168.1.100:1313/tags/certifications/</link>
+    <description>Recent content in Certifications on Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
+    <atom:link href="http://192.168.1.100:1313/tags/certifications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quality and certificates</title>
+      <link>http://192.168.1.100:1313/quality/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/quality/</guid>
+      <description>&lt;p&gt;Production quality requirements have been continuously increasing. To meet these demands, our company has successfully implemented and maintained certifications for internationally recognized quality management standards, demonstrating our commitment to excellence and continuous improvement.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Surface Finishing on Home</title>
+    <link>http://192.168.1.100:1313/tags/surface-finishing/</link>
+    <description>Recent content in Surface Finishing on Home</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
+    <atom:link href="http://192.168.1.100:1313/tags/surface-finishing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blasting</title>
+      <link>http://192.168.1.100:1313/technology/blasting/</link>
+      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
+      <guid>http://192.168.1.100:1313/technology/blasting/</guid>
+      <description>&lt;p&gt;We have a spray booth where we perform surface treatment by blasting with fine glass beads. We blast stainless steel or aluminium parts. Through this process, the material’s surface acquires a uniform velvet appearance.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Parameters&lt;/th&gt;&#xA;          &lt;th&gt;Value&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Maximum width&lt;/td&gt;&#xA;          &lt;td&gt;2 000 mm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Maximum height&lt;/td&gt;&#xA;          &lt;td&gt;2 500 mm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Maximum length&lt;/td&gt;&#xA;          &lt;td&gt;5 500 mm&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+  </channel>
+</rss>
