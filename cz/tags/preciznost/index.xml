@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Preciznost on Domů</title>
-    <link>https://ct-products.cz/cz/tags/preciznost/</link>
+    <link>http://localhost:61221/cz/tags/preciznost/</link>
     <description>Recent content in Preciznost on Domů</description>
     <generator>Hugo</generator>
     <language>cs-CZ</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="https://ct-products.cz/cz/tags/preciznost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61221/cz/tags/preciznost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nerezové produkty</title>
-      <link>https://ct-products.cz/cz/products/stainless-steel-products/</link>
+      <link>http://localhost:61221/cz/products/stainless-steel-products/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/cz/products/stainless-steel-products/</guid>
-      <description>&lt;p&gt;Jeden z dalších pilířů naší výroby je svařování nerezové oceli. Na naši samostatné dílně svařujeme menší a lehčí svařence oproti výrobě kontejnerů či návěsů. Zde máme zkušenosti s výrobou potravinářských konstrukcí, trubek, nádrží a spoustu jiných svařenců. Ve svařování nerezu jsme se setkali i s žáruvzdornou ocelí.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/cz/products/stainless-steel-products/</guid>
+      <description>Jeden z dalších pilířů naší výroby je svařování nerezové oceli. Na naši samostatné dílně svařujeme menší a lehčí svařence oproti výrobě kontejnerů či návěsů. Zde máme zkušenosti s výrobou potravinářských konstrukcí, trubek, nádrží a spoustu jiných svařenců. Ve svařování nerezu jsme se setkali i s žáruvzdornou ocelí.</description>
     </item>
     <item>
       <title>Ostatní produkty</title>
-      <link>https://ct-products.cz/cz/products/other-products/</link>
+      <link>http://localhost:61221/cz/products/other-products/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/cz/products/other-products/</guid>
-      <description>&lt;p&gt;Prozkoumejte galerii našich ostatních výrobků. V galerii naleznete nespočet výrobků jak za použití jednotlivých technologii, tak i jejich kombinací. Nabízíme výpalky, ohnuté plechové díly, svařence, obráběné díly, smontované celky. Také jsme schopni svařovat i hliníkové konstrukce.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/cz/products/other-products/</guid>
+      <description>Prozkoumejte galerii našich ostatních výrobků. V galerii naleznete nespočet výrobků jak za použití jednotlivých technologii, tak i jejich kombinací. Nabízíme výpalky, ohnuté plechové díly, svařence, obráběné díly, smontované celky. Také jsme schopni svařovat i hliníkové konstrukce.</description>
     </item>
     <item>
       <title>Produkty</title>
-      <link>https://ct-products.cz/cz/products/</link>
+      <link>http://localhost:61221/cz/products/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/cz/products/</guid>
-      <description>&lt;p&gt;Naše produkty jsou navrženy s důrazem na přesnost, odolnost a funkčnost. Nabízíme širokou škálu zakázkových řešení přizpůsobených specifickým potřebám našich klientů. S důrazem na kvalitu a inovace zajišťujeme, že každý výrobek splňuje nejvyšší průmyslové standardy.&#xA;&lt;br&gt;&#xA; &#xA;&lt;br&gt;&#xA;Obsluhujeme různé odvětví, včetně ropného a plynárenského průmyslu, automobilového sektoru, potravinářského průmyslu, zemědělství a dalších. Naše rozmanité portfolio dokazuje naši schopnost přizpůsobit se požadavkům různých sektorů.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/cz/products/</guid>
+      <description>Naše produkty jsou navrženy s důrazem na přesnost, odolnost a funkčnost. Nabízíme širokou škálu zakázkových řešení přizpůsobených specifickým potřebám našich klientů. S důrazem na kvalitu a inovace zajišťujeme, že každý výrobek splňuje nejvyšší průmyslové standardy. Obsluhujeme různé odvětví, včetně ropného a plynárenského průmyslu, automobilového sektoru, potravinářského průmyslu, zemědělství a dalších. Naše rozmanité portfolio dokazuje naši schopnost přizpůsobit se požadavkům různých sektorů.</description>
     </item>
     <item>
       <title>Technologie</title>
-      <link>https://ct-products.cz/cz/technology/</link>
+      <link>http://localhost:61221/cz/technology/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/cz/technology/</guid>
-      <description>&lt;p&gt;Naše společnost využívá pokročilé technologie k zajištění přesnosti, efektivity a inovací v každém projektu. Od špičkového obrábění po nejmodernější výrobní procesy nám naše odborné znalosti umožňují dodávat vysoce kvalitní, na míru navržená řešení, která splňují i ty nejnáročnější požadavky.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/cz/technology/</guid>
+      <description>Naše společnost využívá pokročilé technologie k zajištění přesnosti, efektivity a inovací v každém projektu. Od špičkového obrábění po nejmodernější výrobní procesy nám naše odborné znalosti umožňují dodávat vysoce kvalitní, na míru navržená řešení, která splňují i ty nejnáročnější požadavky.</description>
     </item>
   </channel>
 </rss>

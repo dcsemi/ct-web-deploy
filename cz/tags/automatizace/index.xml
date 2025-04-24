@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automatizace on Domů</title>
-    <link>https://ct-products.cz/cz/tags/automatizace/</link>
+    <link>http://localhost:61221/cz/tags/automatizace/</link>
     <description>Recent content in Automatizace on Domů</description>
     <generator>Hugo</generator>
     <language>cs-CZ</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="https://ct-products.cz/cz/tags/automatizace/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61221/cz/tags/automatizace/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automatizace svařování</title>
-      <link>https://ct-products.cz/cz/technology/welding-automation/</link>
+      <link>http://localhost:61221/cz/technology/welding-automation/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/cz/technology/welding-automation/</guid>
-      <description>&lt;p&gt;Vyvinuli jsme zařízení pro svařování dlouhých svarů. Zařízení je určeno pro svařování podélných koutových a tupých svarových spojů metodou MIG nebo MAG. Výhodou tohoto zařízení je možnost současného svařování ze dvou stran. Zařízení se skládá z nosného rámu. Na rámu je polohovatelný stůl, který slouží k upnutí svařence. Na rámu jsou také nosné stojany, na kterých je připevněna horizontální lineární dráha s pojezdovým suportem. Na pojezdovém Suportu je umístěn pohon suportu, dva podavače svařovacího drátu, příčné rameno s dvěma technologickými hlavicemi a řídící jednotka. Svařovací proces je ovládán pomocí dvou dálkových ovladačů typu joystick.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/cz/technology/welding-automation/</guid>
+      <description>Vyvinuli jsme zařízení pro svařování dlouhých svarů. Zařízení je určeno pro svařování podélných koutových a tupých svarových spojů metodou MIG nebo MAG. Výhodou tohoto zařízení je možnost současného svařování ze dvou stran. Zařízení se skládá z nosného rámu. Na rámu je polohovatelný stůl, který slouží k upnutí svařence. Na rámu jsou také nosné stojany, na kterých je připevněna horizontální lineární dráha s pojezdovým suportem. Na pojezdovém Suportu je umístěn pohon suportu, dva podavače svařovacího drátu, příčné rameno s dvěma technologickými hlavicemi a řídící jednotka.</description>
     </item>
     <item>
       <title>Technologie</title>
-      <link>https://ct-products.cz/cz/technology/</link>
+      <link>http://localhost:61221/cz/technology/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/cz/technology/</guid>
-      <description>&lt;p&gt;Naše společnost využívá pokročilé technologie k zajištění přesnosti, efektivity a inovací v každém projektu. Od špičkového obrábění po nejmodernější výrobní procesy nám naše odborné znalosti umožňují dodávat vysoce kvalitní, na míru navržená řešení, která splňují i ty nejnáročnější požadavky.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/cz/technology/</guid>
+      <description>Naše společnost využívá pokročilé technologie k zajištění přesnosti, efektivity a inovací v každém projektu. Od špičkového obrábění po nejmodernější výrobní procesy nám naše odborné znalosti umožňují dodávat vysoce kvalitní, na míru navržená řešení, která splňují i ty nejnáročnější požadavky.</description>
     </item>
   </channel>
 </rss>

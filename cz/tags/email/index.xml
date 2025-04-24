@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Email on Domů</title>
-    <link>https://ct-products.cz/cz/tags/email/</link>
+    <link>http://localhost:61221/cz/tags/email/</link>
     <description>Recent content in Email on Domů</description>
     <generator>Hugo</generator>
     <language>cs-CZ</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="https://ct-products.cz/cz/tags/email/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61221/cz/tags/email/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kontakt</title>
-      <link>https://ct-products.cz/cz/contact/</link>
+      <link>http://localhost:61221/cz/contact/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/cz/contact/</guid>
-      <description></description>
+      <guid>http://localhost:61221/cz/contact/</guid>
+      <description>Spojte se s námi</description>
     </item>
   </channel>
 </rss>

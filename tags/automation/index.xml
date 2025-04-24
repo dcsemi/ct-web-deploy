@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Automation on Home</title>
-    <link>https://ct-products.cz/tags/automation/</link>
+    <link>http://localhost:61221/tags/automation/</link>
     <description>Recent content in Automation on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="https://ct-products.cz/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61221/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welding automation</title>
-      <link>https://ct-products.cz/technology/welding-automation/</link>
+      <link>http://localhost:61221/technology/welding-automation/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/technology/welding-automation/</guid>
-      <description>&lt;p&gt;We developed device for welding long welds. The device is mainly designed for welding long welds of fillet welds and butt welds by methods MIG or MAG. Advantages of this device is simultaneous welding from two sides. Its main components consist of a support frame with a longitudinal positioning table for workpieces and a horizontal linear track with a traversing carriage. This track includes a carriage drive, wire feeders, welding torches, technological torches with vertical and horizontal correction supports, welding torch holders, and a control unit. The welding process is operated by two remote control joysticks.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/technology/welding-automation/</guid>
+      <description>We developed device for welding long welds. The device is mainly designed for welding long welds of fillet welds and butt welds by methods MIG or MAG. Advantages of this device is simultaneous welding from two sides. Its main components consist of a support frame with a longitudinal positioning table for workpieces and a horizontal linear track with a traversing carriage. This track includes a carriage drive, wire feeders, welding torches, technological torches with vertical and horizontal correction supports, welding torch holders, and a control unit.</description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://ct-products.cz/technology/</link>
+      <link>http://localhost:61221/technology/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/technology/</guid>
-      <description>&lt;p&gt;Our company utilizes advanced technologies to ensure precision, efficiency, and innovation in every project. From cutting-edge machining to state-of-the-art fabrication processes, our expertise allows us to deliver high-quality, custom-engineered solutions that meet the most demanding requirements.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/technology/</guid>
+      <description>Our company utilizes advanced technologies to ensure precision, efficiency, and innovation in every project. From cutting-edge machining to state-of-the-art fabrication processes, our expertise allows us to deliver high-quality, custom-engineered solutions that meet the most demanding requirements.</description>
     </item>
   </channel>
 </rss>

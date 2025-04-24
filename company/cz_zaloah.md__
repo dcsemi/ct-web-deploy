@@ -1,0 +1,78 @@
++++
+date = '2024-12-08T23:51:04+01:00'
+draft = false
+title = 'O Nás'
+images = [
+   { src = "DJI_0337.jpg", alt = "company" }
+]
+history = [
+   {
+      year = "2023", 
+      title = "Nový 2D laserový stroj", 
+      text = "Společnost se rozšiřuje o více výkonný a rozměrnější stroj na 2D laserové řezání", 
+      image = "RSK0214.jpg", 
+      alt_image = "2D laserový stroj"
+   },  
+   { 
+      year = "2022", 
+      title = "Automatizace dlouhých svarů", 
+      text= "Vývoj automatizce svařování dlouhých svarů", 
+      image = "RSK0094.jpg", 
+      alt_image = "Automatizace dlouhých svarů"
+   },  
+   { 
+      year = "2021", 
+      title = "Podvozky nákladních přívěsů", 
+      text = "Větší zaměření na ocelové svařování nákladních podvozků", 
+      image = "RSK0097.jpg", 
+      alt_image = "Podvozky nákladních přívěsů"
+   },  
+   { 
+      year = "2017", 
+      title = "ISO 3834-2", 
+      text = "Obdrželi jsme certifikaci ISO 3834-2", 
+   },  
+   { 
+      year = "2015", 
+      title = "CNC stroje", 
+      text = "Investice do CNC vertikálního obráběcího centra a CNC soustruhu", 
+      image = "RSK0179.jpg", 
+      alt_image = "CNC stroje"
+   },  
+   { 
+      year = "2014", 
+      title = "Informační systém", 
+      text = "Firma implementovala nový řídící systém DIALOG"
+   },  
+   { 
+      year = "2013", 
+      title = "Laser", 
+      text = "Investice do laserového pálícího stroje a ohraňovacího lisu"
+   },  
+   { 
+      year = "2012", 
+      title = "ISO 9001:2008", 
+      text = "Firma získala certifikaci dle ISO 9001:2008"
+   },  
+   { 
+      year = "2007", 
+      title = "Offshore kontejnery", 
+      text = "Specializace na výrobu Offshore kontejnerů a zařízení pro ropný průmysl", 
+      image = "DSC0057.jpg", 
+      alt_image = "Offshore kontejnery"
+   },  
+   { 
+      year = "2002", 
+      title = "Nerezová výroba", 
+      text = "Zahájena výroba nerezových strojů a zařizení", 
+      image = "RSK0301.jpg", 
+      alt_image = "Nerezová výroba"
+   }
+]
++++
+
+Jsme moderní rodinná firma, specializující se na výrobu svařovaných ocelových konstrukcí a poskytující zakázkové služby v oblasti malosériové, sériové i kusové výroby.
+\
+&nbsp;
+\
+Naše hlavní odbornost spočívá v svařování, kde klademe důraz na kvalitu a proces. Dokážeme také zpracovat výpalky, ohnuté díly, obrobky. Veškerá produkce prochází důkladnou kontrolou, přičemž celý výrobní proces je řízený moderním informačním systémem.

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maritime Transport on Home</title>
-    <link>https://ct-products.cz/tags/maritime-transport/</link>
+    <link>http://localhost:61221/tags/maritime-transport/</link>
     <description>Recent content in Maritime Transport on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="https://ct-products.cz/tags/maritime-transport/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61221/tags/maritime-transport/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Offshore containers</title>
-      <link>https://ct-products.cz/products/offshore-containers/</link>
+      <link>http://localhost:61221/products/offshore-containers/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/products/offshore-containers/</guid>
-      <description>&lt;p&gt;We produce special containers and equipment intended for petroleum industry. The containers are of the offshore type which means they are certified according to respective standards for reloading on an open sea.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/products/offshore-containers/</guid>
+      <description>We produce special containers and equipment intended for petroleum industry. The containers are of the offshore type which means they are certified according to respective standards for reloading on an open sea.</description>
     </item>
   </channel>
 </rss>

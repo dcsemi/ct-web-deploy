@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Standards on Home</title>
-    <link>https://ct-products.cz/tags/standards/</link>
+    <link>http://localhost:61221/tags/standards/</link>
     <description>Recent content in Standards on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="https://ct-products.cz/tags/standards/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61221/tags/standards/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Offshore containers</title>
-      <link>https://ct-products.cz/products/offshore-containers/</link>
+      <link>http://localhost:61221/products/offshore-containers/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/products/offshore-containers/</guid>
-      <description>&lt;p&gt;We produce special containers and equipment intended for petroleum industry. The containers are of the offshore type which means they are certified according to respective standards for reloading on an open sea.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/products/offshore-containers/</guid>
+      <description>We produce special containers and equipment intended for petroleum industry. The containers are of the offshore type which means they are certified according to respective standards for reloading on an open sea.</description>
     </item>
     <item>
       <title>Quality and certificates</title>
-      <link>https://ct-products.cz/quality/</link>
+      <link>http://localhost:61221/quality/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/quality/</guid>
-      <description>&lt;p&gt;Production quality requirements have been continuously increasing. To meet these demands, our company has successfully implemented and maintained certifications for internationally recognized quality management standards, demonstrating our commitment to excellence and continuous improvement.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/quality/</guid>
+      <description>Production quality requirements have been continuously increasing. To meet these demands, our company has successfully implemented and maintained certifications for internationally recognized quality management standards, demonstrating our commitment to excellence and continuous improvement.</description>
     </item>
   </channel>
 </rss>

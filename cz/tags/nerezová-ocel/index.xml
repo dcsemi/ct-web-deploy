@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nerezová Ocel on Domů</title>
-    <link>https://ct-products.cz/cz/tags/nerezov%C3%A1-ocel/</link>
+    <link>http://localhost:61221/cz/tags/nerezov%C3%A1-ocel/</link>
     <description>Recent content in Nerezová Ocel on Domů</description>
     <generator>Hugo</generator>
     <language>cs-CZ</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="https://ct-products.cz/cz/tags/nerezov%C3%A1-ocel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61221/cz/tags/nerezov%C3%A1-ocel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nerezové produkty</title>
-      <link>https://ct-products.cz/cz/products/stainless-steel-products/</link>
+      <link>http://localhost:61221/cz/products/stainless-steel-products/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/cz/products/stainless-steel-products/</guid>
-      <description>&lt;p&gt;Jeden z dalších pilířů naší výroby je svařování nerezové oceli. Na naši samostatné dílně svařujeme menší a lehčí svařence oproti výrobě kontejnerů či návěsů. Zde máme zkušenosti s výrobou potravinářských konstrukcí, trubek, nádrží a spoustu jiných svařenců. Ve svařování nerezu jsme se setkali i s žáruvzdornou ocelí.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/cz/products/stainless-steel-products/</guid>
+      <description>Jeden z dalších pilířů naší výroby je svařování nerezové oceli. Na naši samostatné dílně svařujeme menší a lehčí svařence oproti výrobě kontejnerů či návěsů. Zde máme zkušenosti s výrobou potravinářských konstrukcí, trubek, nádrží a spoustu jiných svařenců. Ve svařování nerezu jsme se setkali i s žáruvzdornou ocelí.</description>
     </item>
   </channel>
 </rss>

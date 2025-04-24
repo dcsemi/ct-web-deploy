@@ -1,0 +1,77 @@
++++
+date = '2024-12-08T23:51:04+01:00'
+draft = false
+title = 'Company'
+images = [
+  { src = "DJI_0337.jpg", alt = "company" }
+]
+history = [
+  { 
+    year = "2023", 
+    title = "New 2D laser cutting machine", 
+    text = "Company acquires high power and more dimensional laser cutting machine", 
+    image = "RSK0214.jpg", 
+    alt_image = "Laser cutting machine"
+  },
+  { 
+    year = "2022", 
+    title = "Long welds automatization", 
+    text = "Development of new automatization of welding long welds", 
+    image = "RSK0094.jpg", 
+    alt_image = "Long welds automatization"
+  },
+  { 
+    year = "2021", 
+    title = "Cargo chasis trailers", 
+    text = "Focus on carbon steel welding of cargo chassis", 
+    image = "RSK0097.jpg", 
+    alt_image = "Cargo chasis trailers"
+  },
+  { 
+    year = "2017", 
+    title = "ISO 3834-2", 
+    text = "We were awarded certification ISO 3834-2"
+  },
+  { 
+    year = "2015", 
+    title = "CNC machines", 
+    text = "The company bought a new CNC vertical machining center and CNC turning machine", 
+    image = "RSK0179.jpg", 
+    alt_image = "CNC machines"
+  },
+  { 
+    year = "2014", 
+    title = "Information system", 
+    text = "The company implemented a new DIALOG control system"
+  },
+  { 
+    year = "2013", 
+    title = "Laser cutting machine", 
+    text = "The company bought first laser cutting machine and a press brake"
+  },
+  { 
+    year = "2012", 
+    title = "ISO 9001:2008", 
+    text = "The company was awarded certification according to ISO 9001:2008"
+  },
+  { 
+    year = "2007", 
+    title = "Offshore containers", 
+    text = "The production of offshore containers and equipment for petroleum industry started", 
+    image = "DSC0057.jpg", 
+    alt_image = "Offshore containers"
+  },
+  { 
+    year = "2002", 
+    title = "Stainless steel", 
+    text = "The production of stainless steel machines and equipment started", 
+    image = "RSK0301.jpg", 
+    alt_image = "Stainless steel"
+  }
+]
++++
+We are a modern family-owned company specializing in the production of welded steel structures and providing custom services in the field of small-scale, serial, and batch production.
+\
+&nbsp;
+\
+Our primary expertise lies in welding, where we emphasize quality and the process. We are also capable of processing laser cutting parts, bent parts, and machined components. All the production goes through thorough inspection and the whole production process is controlled by a modern information system.

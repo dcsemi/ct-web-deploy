@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steel on Home</title>
-    <link>https://ct-products.cz/tags/steel/</link>
+    <link>http://localhost:61221/tags/steel/</link>
     <description>Recent content in Steel on Home</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="https://ct-products.cz/tags/steel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61221/tags/steel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stainless steel products</title>
-      <link>https://ct-products.cz/products/stainless-steel-products/</link>
+      <link>http://localhost:61221/products/stainless-steel-products/</link>
       <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>https://ct-products.cz/products/stainless-steel-products/</guid>
-      <description>&lt;p&gt;One of the three pillars of our production is focused on welding stainless steel. Our dedicated workshop enables us to weld smaller, lighter weldments compared to the production of containers or trailers. Here, we have experience in manufacturing food industry structures, pipes, tanks, and various other welded components. In this field, we have also encountered heat-resistant stainless steels.&lt;/p&gt;</description>
+      <guid>http://localhost:61221/products/stainless-steel-products/</guid>
+      <description>One of the three pillars of our production is focused on welding stainless steel. Our dedicated workshop enables us to weld smaller, lighter weldments compared to the production of containers or trailers. Here, we have experience in manufacturing food industry structures, pipes, tanks, and various other welded components. In this field, we have also encountered heat-resistant stainless steels.</description>
     </item>
   </channel>
 </rss>
