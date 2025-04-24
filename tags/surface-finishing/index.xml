@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Surface Finishing on Home</title>
-    <link>http://localhost:61221/tags/surface-finishing/</link>
-    <description>Recent content in Surface Finishing on Home</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://localhost:61221/tags/surface-finishing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blasting</title>
-      <link>http://localhost:61221/technology/blasting/</link>
-      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://localhost:61221/technology/blasting/</guid>
-      <description>We have a spray booth where we perform surface treatment by blasting with fine glass beads. We blast stainless steel or aluminium parts. Through this process, the material’s surface acquires a uniform velvet appearance.&#xA;Parameters Value Maximum width 2 000 mm Maximum height 2 500 mm Maximum length 5 500 mm </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Surface Finishing on Home</title><link>https://ct-products.cz/tags/surface-finishing/</link><description>Recent content in Surface Finishing on Home</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate><atom:link href="https://ct-products.cz/tags/surface-finishing/index.xml" rel="self" type="application/rss+xml"/><item><title>Blasting</title><link>https://ct-products.cz/technology/blasting/</link><pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate><guid>https://ct-products.cz/technology/blasting/</guid><description>We have a spray booth where we perform surface treatment by blasting with fine glass beads. We blast stainless steel or aluminium parts. Through this process, the material’s surface acquires a uniform velvet appearance.
+Parameters Value Maximum width 2 000 mm Maximum height 2 500 mm Maximum length 5 500 mm</description></item></channel></rss>

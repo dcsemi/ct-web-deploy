@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Laserové Řezání on Domů</title>
-    <link>http://localhost:61221/cz/tags/laserov%C3%A9-%C5%99ez%C3%A1n%C3%AD/</link>
-    <description>Recent content in Laserové Řezání on Domů</description>
-    <generator>Hugo</generator>
-    <language>cs-CZ</language>
-    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://localhost:61221/cz/tags/laserov%C3%A9-%C5%99ez%C3%A1n%C3%AD/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pálení laserem</title>
-      <link>http://localhost:61221/cz/technology/laser-cutting/</link>
-      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://localhost:61221/cz/technology/laser-cutting/</guid>
-      <description>Laser Genius+ 2040 6kW, PRIMA POWER, (Vláknová technologie) Laser Genius+ má novou vláknovou laserovou hlavu s novou elektronikou a inovativním uchycením optiky s vystřeďovacím systémem, což zaručuje maximální úroveň přesnosti a kvality řezu.&#xA;Parametry Hodnoty Osové zdvihy X: 4 320 mm, Y: 2 200 mm, Z: 150 mm Zdroj vláknového laseru 6 000 W (max. tloušťka ocelí, nerezu a hliníku je 25 mm) Maximální hmotnost plechu 2000 kg Přesnost a opakovatelnost X, Y: 0,03 mm Rychlost 30/min (trajektorie 180m/min) Zrychlení 2,8g </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Laserové Řezání on Domů</title><link>https://ct-products.cz/cz/tags/laserov%C3%A9-%C5%99ez%C3%A1n%C3%AD/</link><description>Recent content in Laserové Řezání on Domů</description><generator>Hugo</generator><language>cs-CZ</language><lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate><atom:link href="https://ct-products.cz/cz/tags/laserov%C3%A9-%C5%99ez%C3%A1n%C3%AD/index.xml" rel="self" type="application/rss+xml"/><item><title>Pálení laserem</title><link>https://ct-products.cz/cz/technology/laser-cutting/</link><pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate><guid>https://ct-products.cz/cz/technology/laser-cutting/</guid><description>Laser Genius+ 2040 6kW, PRIMA POWER, (Vláknová technologie) Laser Genius+ má novou vláknovou laserovou hlavu s novou elektronikou a inovativním uchycením optiky s vystřeďovacím systémem, což zaručuje maximální úroveň přesnosti a kvality řezu.
+Parametry Hodnoty Osové zdvihy X: 4 320 mm, Y: 2 200 mm, Z: 150 mm Zdroj vláknového laseru 6 000 W (max. tloušťka ocelí, nerezu a hliníku je 25 mm) Maximální hmotnost plechu 2000 kg Přesnost a opakovatelnost X, Y: 0,03 mm Rychlost 30/min (trajektorie 180m/min) Zrychlení 2,8g</description></item></channel></rss>

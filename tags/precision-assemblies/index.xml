@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Precision Assemblies on Home</title>
-    <link>http://localhost:61221/tags/precision-assemblies/</link>
-    <description>Recent content in Precision Assemblies on Home</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://localhost:61221/tags/precision-assemblies/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Assemblies and products testing</title>
-      <link>http://localhost:61221/technology/assemblies/</link>
-      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://localhost:61221/technology/assemblies/</guid>
-      <description>We offer product testing services to our clients. One of the most crucial tests we conduct is on offshore welding structures, where we have our own testing equipment. This includes a testing tower with a hydraulic cylinder capable of exerting a force of up to 100 tons. We perform two types of tests: production tests and prototype tests.&#xA;Additionally, we provide pressure tests and leak tests for welded structures such as tanks, containers, pipes, and more.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Precision Assemblies on Home</title><link>https://ct-products.cz/tags/precision-assemblies/</link><description>Recent content in Precision Assemblies on Home</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate><atom:link href="https://ct-products.cz/tags/precision-assemblies/index.xml" rel="self" type="application/rss+xml"/><item><title>Assemblies and products testing</title><link>https://ct-products.cz/technology/assemblies/</link><pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate><guid>https://ct-products.cz/technology/assemblies/</guid><description>We offer product testing services to our clients. One of the most crucial tests we conduct is on offshore welding structures, where we have our own testing equipment. This includes a testing tower with a hydraulic cylinder capable of exerting a force of up to 100 tons. We perform two types of tests: production tests and prototype tests.
+Additionally, we provide pressure tests and leak tests for welded structures such as tanks, containers, pipes, and more.</description></item></channel></rss>

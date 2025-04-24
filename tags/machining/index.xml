@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Machining on Home</title>
-    <link>http://localhost:61221/tags/machining/</link>
-    <description>Recent content in Machining on Home</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://localhost:61221/tags/machining/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Machining</title>
-      <link>http://localhost:61221/technology/machining/</link>
-      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://localhost:61221/technology/machining/</guid>
-      <description>In the context of our manufacturing operations a milling machine and a lathe offer support. These tools empower us to adapt flexibly to the requirements of our primary welding production.&#xA;Milling machine Microcut VMCA 1000 CNC Parameters Value Traverses: X: 1 000 mm, Y: 500 mm, Z: 500 mm Table: 1520 x 520 mm Spindle speed: 10 000 rpm Turning machine SA 48/1000 CNC Parameters Value Max. swing diameter, without bed bridge: 710 mm Swing diameter over bed: 475 mm Max.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machining on Home</title><link>https://ct-products.cz/tags/machining/</link><description>Recent content in Machining on Home</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate><atom:link href="https://ct-products.cz/tags/machining/index.xml" rel="self" type="application/rss+xml"/><item><title>Machining</title><link>https://ct-products.cz/technology/machining/</link><pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate><guid>https://ct-products.cz/technology/machining/</guid><description>In the context of our manufacturing operations a milling machine and a lathe offer support. These tools empower us to adapt flexibly to the requirements of our primary welding production.
+Milling machine Microcut VMCA 1000 CNC Parameters Value Traverses: X: 1 000 mm, Y: 500 mm, Z: 500 mm Table: 1520 x 520 mm Spindle speed: 10 000 rpm Turning machine SA 48/1000 CNC Parameters Value Max. swing diameter, without bed bridge: 710 mm Swing diameter over bed: 475 mm Max.</description></item></channel></rss>

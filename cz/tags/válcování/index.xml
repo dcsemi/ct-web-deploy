@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Válcování on Domů</title>
-    <link>http://localhost:61221/cz/tags/v%C3%A1lcov%C3%A1n%C3%AD/</link>
-    <description>Recent content in Válcování on Domů</description>
-    <generator>Hugo</generator>
-    <language>cs-CZ</language>
-    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://localhost:61221/cz/tags/v%C3%A1lcov%C3%A1n%C3%AD/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ohýbání a zakružování</title>
-      <link>http://localhost:61221/cz/technology/press-brake-roll-bending/</link>
-      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://localhost:61221/cz/technology/press-brake-roll-bending/</guid>
-      <description>Safan E-Brake B 100-3100 E-Brake má všechny výhody osvědčené servoelektrické koncepce pohonu. Přenos lisovací síly spočívá v mechanizmu s plochými řemeny a sadou otáčejících se kol na valivých ložiskách. Díky neporovnatelně vyššímu zrychlení a zpomalení beranu dosahuje vyšší produktivitu, než je tomu u hydraulických lisů.&#xA;Parametry Hodnoty Maximální lisovací síla 1 000 kN Maximální lisovací délka 3 100 mm BENDMAK | CY SERIES 3-ROLL Intial pinch plate rolls Bendmak CY Series 3 Roll Initial Pinch představuje nejvyhledávanější zařízení pro válcování tenkých plechů.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Válcování on Domů</title><link>https://ct-products.cz/cz/tags/v%C3%A1lcov%C3%A1n%C3%AD/</link><description>Recent content in Válcování on Domů</description><generator>Hugo</generator><language>cs-CZ</language><lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate><atom:link href="https://ct-products.cz/cz/tags/v%C3%A1lcov%C3%A1n%C3%AD/index.xml" rel="self" type="application/rss+xml"/><item><title>Ohýbání a zakružování</title><link>https://ct-products.cz/cz/technology/press-brake-roll-bending/</link><pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate><guid>https://ct-products.cz/cz/technology/press-brake-roll-bending/</guid><description>Safan E-Brake B 100-3100 E-Brake má všechny výhody osvědčené servoelektrické koncepce pohonu. Přenos lisovací síly spočívá v mechanizmu s plochými řemeny a sadou otáčejících se kol na valivých ložiskách. Díky neporovnatelně vyššímu zrychlení a zpomalení beranu dosahuje vyšší produktivitu, než je tomu u hydraulických lisů.
+Parametry Hodnoty Maximální lisovací síla 1 000 kN Maximální lisovací délka 3 100 mm BENDMAK | CY SERIES 3-ROLL Intial pinch plate rolls Bendmak CY Series 3 Roll Initial Pinch představuje nejvyhledávanější zařízení pro válcování tenkých plechů.</description></item></channel></rss>

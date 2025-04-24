@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Opracování on Domů</title>
-    <link>http://localhost:61221/cz/tags/opracov%C3%A1n%C3%AD/</link>
-    <description>Recent content in Opracování on Domů</description>
-    <generator>Hugo</generator>
-    <language>cs-CZ</language>
-    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://localhost:61221/cz/tags/opracov%C3%A1n%C3%AD/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Obrábění</title>
-      <link>http://localhost:61221/cz/technology/machining/</link>
-      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://localhost:61221/cz/technology/machining/</guid>
-      <description>V rámci naší výroby nám poskytují podporu dva CNC obráběcí stroje, frézka a soustruh. Tato zařízení nám umožňují flexibilně reagovat na potřeby hlavní výroby svařování.&#xA;Vertikální obráběcí centrum VMCA 1000 CNC Parametry Hodnoty Posuvy X: 1 000 mm, Y: 500 mm, Z: 500 mm Stůl 1520 x 520 mm Vřeteno 10 000 rpm Soustruh SA 48/1000 CNC Parametry Hodnoty Max. oběžný průměr, bez můstku lože 710 mm Oběžný průměr nad ložem 475 mm Max.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Opracování on Domů</title><link>https://ct-products.cz/cz/tags/opracov%C3%A1n%C3%AD/</link><description>Recent content in Opracování on Domů</description><generator>Hugo</generator><language>cs-CZ</language><lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate><atom:link href="https://ct-products.cz/cz/tags/opracov%C3%A1n%C3%AD/index.xml" rel="self" type="application/rss+xml"/><item><title>Obrábění</title><link>https://ct-products.cz/cz/technology/machining/</link><pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate><guid>https://ct-products.cz/cz/technology/machining/</guid><description>V rámci naší výroby nám poskytují podporu dva CNC obráběcí stroje, frézka a soustruh. Tato zařízení nám umožňují flexibilně reagovat na potřeby hlavní výroby svařování.
+Vertikální obráběcí centrum VMCA 1000 CNC Parametry Hodnoty Posuvy X: 1 000 mm, Y: 500 mm, Z: 500 mm Stůl 1520 x 520 mm Vřeteno 10 000 rpm Soustruh SA 48/1000 CNC Parametry Hodnoty Max. oběžný průměr, bez můstku lože 710 mm Oběžný průměr nad ložem 475 mm Max.</description></item></channel></rss>

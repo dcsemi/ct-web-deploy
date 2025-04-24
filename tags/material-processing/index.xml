@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Material Processing on Home</title>
-    <link>http://localhost:61221/tags/material-processing/</link>
-    <description>Recent content in Material Processing on Home</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://localhost:61221/tags/material-processing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Laser cutting</title>
-      <link>http://localhost:61221/technology/laser-cutting/</link>
-      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://localhost:61221/technology/laser-cutting/</guid>
-      <description>Laser Genius+ 2040 6kW, PRIMA POWER, (Fiber technology) Laser Genius+ is combined with the new fiber laser head, new electronics and innovative mounting for the optics and centering system, guarantee a maximum level of precision and cutting quality.&#xA;Parameters Value Axis strokes X: 4 320 mm, Y: 2 200 mm, Z: 150 mm Laser power 6 000 W (max. thickness of standard steel, stainless steel and aluminium is 25 mm) Maximum piece weight 2000kg Positioning accuracy and repeatability X, Y: 0,03 mm Speed 130/min (trajectory 180m/min) Acceleration 2,8 g </description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Material Processing on Home</title><link>https://ct-products.cz/tags/material-processing/</link><description>Recent content in Material Processing on Home</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate><atom:link href="https://ct-products.cz/tags/material-processing/index.xml" rel="self" type="application/rss+xml"/><item><title>Laser cutting</title><link>https://ct-products.cz/technology/laser-cutting/</link><pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate><guid>https://ct-products.cz/technology/laser-cutting/</guid><description>Laser Genius+ 2040 6kW, PRIMA POWER, (Fiber technology) Laser Genius+ is combined with the new fiber laser head, new electronics and innovative mounting for the optics and centering system, guarantee a maximum level of precision and cutting quality.
+Parameters Value Axis strokes X: 4 320 mm, Y: 2 200 mm, Z: 150 mm Laser power 6 000 W (max. thickness of standard steel, stainless steel and aluminium is 25 mm) Maximum piece weight 2000kg Positioning accuracy and repeatability X, Y: 0,03 mm Speed 130/min (trajectory 180m/min) Acceleration 2,8 g</description></item></channel></rss>

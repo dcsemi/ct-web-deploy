@@ -1,19 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Výroba Sestav on Domů</title>
-    <link>http://localhost:61221/cz/tags/v%C3%BDroba-sestav/</link>
-    <description>Recent content in Výroba Sestav on Domů</description>
-    <generator>Hugo</generator>
-    <language>cs-CZ</language>
-    <lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate>
-    <atom:link href="http://localhost:61221/cz/tags/v%C3%BDroba-sestav/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Montáže a testování produktů</title>
-      <link>http://localhost:61221/cz/technology/assemblies/</link>
-      <pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate>
-      <guid>http://localhost:61221/cz/technology/assemblies/</guid>
-      <description>Klientům nabízíme testování produktů. Jedním z nejdůležitějších testování provádíme na offshorových svařencích. Zde disponujeme vlastním zkušebním zařízením. Jedná se o zkušební věž s hydraulickým válcem. Zde jsme schopni vyvinout sílu až 100 tun. Provádíme dva typy testů produkční a prototypový test.&#xA;Dále nabízíme tlakové zkoušky nebo zkoušky těsnosti u svařenců typů nádrží, nádob, trubek, aj. Finální výrobek umíme i zkompletovat pomocí finální montáže. To znamená sešroubováním, snýtováním, nalisováním popřípadě dovařením.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Výroba Sestav on Domů</title><link>https://ct-products.cz/cz/tags/v%C3%BDroba-sestav/</link><description>Recent content in Výroba Sestav on Domů</description><generator>Hugo</generator><language>cs-CZ</language><lastBuildDate>Sun, 08 Dec 2024 23:51:04 +0100</lastBuildDate><atom:link href="https://ct-products.cz/cz/tags/v%C3%BDroba-sestav/index.xml" rel="self" type="application/rss+xml"/><item><title>Montáže a testování produktů</title><link>https://ct-products.cz/cz/technology/assemblies/</link><pubDate>Sun, 08 Dec 2024 23:51:04 +0100</pubDate><guid>https://ct-products.cz/cz/technology/assemblies/</guid><description>Klientům nabízíme testování produktů. Jedním z nejdůležitějších testování provádíme na offshorových svařencích. Zde disponujeme vlastním zkušebním zařízením. Jedná se o zkušební věž s hydraulickým válcem. Zde jsme schopni vyvinout sílu až 100 tun. Provádíme dva typy testů produkční a prototypový test.
+Dále nabízíme tlakové zkoušky nebo zkoušky těsnosti u svařenců typů nádrží, nádob, trubek, aj. Finální výrobek umíme i zkompletovat pomocí finální montáže. To znamená sešroubováním, snýtováním, nalisováním popřípadě dovařením.</description></item></channel></rss>
